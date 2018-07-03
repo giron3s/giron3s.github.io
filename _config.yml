@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marc Girones-Game Programmer"
+title                    : "Game Programmer"
 title_separator          : "-"
 name                     : &name "Marc Girones"
 description              : &description "Game Programmer"
@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Test Account"
-  avatar           : "profile.png"
-  bio              : "Research scientist at Test University, expert in all things test and account related"
-  location         : "Test, California"
+  name             : "Marc Girones Dezsenyi"
+  avatar           : "profile.jpg"
+  bio              : "Hi, I am Marc Girones and I work as a Game Programmer at Cirsa in Barcelona, Spain. I started my career with a game for PC and Mobiles. At this moment I developing gaems for casinos and bars "
+  location         : "Barcelona, Spain"
   employer         : 
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
+  googlescholar    : 
   email            : 
   uri              : 
   bitbucket        :
@@ -91,19 +91,19 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "getorg-testacct"
+  github           : "https://github.com/giron3s"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/testaccount"
+  linkedin         : "https://www.linkedin.com/in/marc-girones-dezs%C3%A8nyi-a424a34a/"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "testaccount-this-is-fake"
+  twitter          : "https://twitter.com/giron3s"
   vine             :
   weibo            :
   xing             :
