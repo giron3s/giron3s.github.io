@@ -9,28 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
+Summary
+======
+Software developer with 10 years of experience in the game industry. Worked in games for _App Store_,
+_Google Play_ and other platforms.
+Specialties: Android, iPhone, Game UI, code build
+
 Education
 ======
-* B.S. in Computer Engineering, Universitat de Barcelona, 2013
-* M.S. in Video Game Design, Universitat Pompeu Fabra, 2014
+* 2013-2014 **M.S. in Creation of Video Game**, _Universitat Pompeu Fabra_, Barcelona
+* 2009-2013 **B.S. in Computer Engineering**, _Universitat de Barcelona_, Barcelona
 
-Work experience
+Experience
 ======
-* **[2016-2018]** Cirsa: Gameplay Programmer 
-	Programming of slot games, technical support and maintenance of updates into CIRSA.
 
-	The technologies used in the project are: OpenGL, C++  (Eclipse)
-	Using project management tools such as: SVN y GIT.
+# **Game Programmer**, _Cirsa_, Barcelona: 
+## [2016-2018]
+	Software Developer of the new multi bingo games of Cirsa a sold under the brand named MyBingo. 
+	The technologies used in the project are: C++, Costum Script Language, OpenGL. 
 
 
-* **[2015-2016]** Digital Legends Entertainment: Gameplay Programmer 
+# **Gameplay Programmer**, _Digital Legends Entertainment_, Barcelona: 
+## [2015-2016]
   * Afterpulse :
     Architecture, design and implementation of games for native mobile platforms, currently Apple iOS.
 	The technologies used in the project are: Visual C++( Visual Studio )
 	Using project management tools such as: Jira, Confluence and Plastic SCM.
 
 	
-* **[2012-2015]** Barcelona Digital Technology Center: Junior Programmer 
+# **Junior Programmer**, _Barcelona Digital Technology Center_, Barcelona:
+## [2012-2015]
   * eKauri:
 	EKauri is an e-health and smart home platform that empowers seniors to gain autonomy, participate in modern society, and achieve independence through ICT-based solutions.
 
@@ -43,7 +51,8 @@ Work experience
 
     The software solution is a simple java based framework. It uses Java Spring Framework (MVC, Security, JPA and Social), HTML5, JQuery, CSS3 and MySQL database.
 
-* **[2012-2013]** Barcelona Digital Technology Center: Internship 
+# **Internship**, _Barcelona Digital Technology Center_, Barcelona:
+## [2012-2013]
   * Saapho:
 	The main objective of SAAPHO is to support Active Ageing by assisting seniors to participate in the self-serve society preserving and enhancing independence and dignity through the application of innovative ICT-based solutions.
 
