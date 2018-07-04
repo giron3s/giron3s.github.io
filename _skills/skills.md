@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Skills
-======
 * UML and Agile Software Development( Scrum and Kanban )
 * Tools knowledge: 
   *	IDEs: Visual Studio, QtCreator, Eclipse and Netbeans
