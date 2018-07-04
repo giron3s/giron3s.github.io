@@ -23,22 +23,22 @@ Education
 Experience
 ======
 
-# **Game Programmer**, _Cirsa_, Barcelona: 
-## [2016-2018]
-	Software Developer of the new multi bingo games of Cirsa a sold under the brand named MyBingo. 
+## **Game Programmer**, _Cirsa_, Barcelona: 
+### [2016-2018]
+  * Software Developer of the new multi bingo games of Cirsa a sold under the brand named MyBingo. 
 	The technologies used in the project are: C++, Costum Script Language, OpenGL. 
 
 
-# **Gameplay Programmer**, _Digital Legends Entertainment_, Barcelona: 
-## [2015-2016]
+## **Gameplay Programmer**, _Digital Legends Entertainment_, Barcelona: 
+### [2015-2016]
   * Afterpulse :
     Architecture, design and implementation of games for native mobile platforms, currently Apple iOS.
 	The technologies used in the project are: Visual C++( Visual Studio )
 	Using project management tools such as: Jira, Confluence and Plastic SCM.
 
 	
-# **Junior Programmer**, _Barcelona Digital Technology Center_, Barcelona:
-## [2012-2015]
+## **Junior Programmer**, _Barcelona Digital Technology Center_, Barcelona:
+### [2012-2015]
   * eKauri:
 	EKauri is an e-health and smart home platform that empowers seniors to gain autonomy, participate in modern society, and achieve independence through ICT-based solutions.
 
@@ -51,8 +51,8 @@ Experience
 
     The software solution is a simple java based framework. It uses Java Spring Framework (MVC, Security, JPA and Social), HTML5, JQuery, CSS3 and MySQL database.
 
-# **Internship**, _Barcelona Digital Technology Center_, Barcelona:
-## [2012-2013]
+## **Internship**, _Barcelona Digital Technology Center_, Barcelona:
+### [2012-2013]
   * Saapho:
 	The main objective of SAAPHO is to support Active Ageing by assisting seniors to participate in the self-serve society preserving and enhancing independence and dignity through the application of innovative ICT-based solutions.
 
@@ -62,7 +62,7 @@ Experience
 
 Languages 
 ======
-  * English: Level B of spoken and written
-  * Catalan: Intermediate level of spoken and written (Universitat de Barcelona)
-  * Spanish: Intermediate level of spoken and written (Escola Oficial de Idiomes)
-  * Hungarian: Native level
+  * **English**: Level B of spoken and written
+  * **Catalan**: Intermediate level of spoken and written (Universitat de Barcelona)
+  * **Spanish**: Intermediate level of spoken and written (Escola Oficial de Idiomes)
+  * **Hungarian**: Native level
