@@ -16,14 +16,26 @@ Education
 
 Work experience
 ======
-* **[2012-2014]** Barcelona Digital Technology Center: Junior Programmer 
+* **[2016-2018]** Cirsa: Gameplay Programmer 
+	Programming of slot games, technical support and maintenance of updates into CIRSA.
+
+	The technologies used in the project are: OpenGL, C++  (Eclipse)
+	Using project management tools such as: SVN y GIT.
+
+
+* **[2015-2016]** Digital Legends Entertainment: Gameplay Programmer 
+  * Afterpulse :
+    Architecture, design and implementation of games for native mobile platforms, currently Apple iOS.
+	The technologies used in the project are: Visual C++( Visual Studio )
+	Using project management tools such as: Jira, Confluence and Plastic SCM.
+
+	
+* **[2012-2015]** Barcelona Digital Technology Center: Junior Programmer 
   * eKauri:
 	EKauri is an e-health and smart home platform that empowers seniors to gain autonomy, participate in modern society, and achieve independence through ICT-based solutions.
 
 	I was responsible for the design and develop of videoconference API based on WebRTC technology, support voice and video conference between Android and PC. 
 	The solution was developed on Java, Python, GAE and WSO2.
-
-
 
   
   * Easit4All: 
@@ -42,31 +54,48 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* UML and Agile Software Development( Scrum and Kanban )
+* Tools knowledge: 
+  *	IDEs: Visual Studio, QtCreator, Eclipse and Netbeans
+  * Tools for modeling: Blender and 3D Studio Max
+  * Version control tools: Plastic SCM, JIRA, Git and Subversion
+  * Profiler tools: Shiny, Renderdoc by Crytek, VS Frame Analysis
+  * Other tools: AntTweekBar
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Knowledge to develop graphics engine:
+  * Deferred shading
+  * Shadows and illuminations ( Cascade shadow, Volumetric lights)
+  * Post processing (SMAA, SSAO, DOF, Bloom, Godrays, Toon shading)
+  * Image processing (Seam carving, Bilateral filter)
+
+* Extensive knowledge in AI :
+  * Intelligence based on Behavior tree, Finite State Machine
+  * Path finding
+  * LUA scripting
+  * Learning Algorithms
+
+* Knowledge with standards and framework :
+  * Web Services, Spring Framework, Social Spring, Spring Security
+ ( OAuth1 and OAuth2)
+  * Servlets, Hibernate, Maven, JUnit,
+  * Log4j, J2EE, JME, RESTful, SOAP, JSON, JQuery, XML, JSP
+  * Social network API (Facebook, Twitter, Google+, Calendar, C2Call)
+  Android SDK, Android Development Tool(ADT)
   
-Talks
+* Other knowledge:
+  * Wide experience develop in mobile development 
+  * Experience on Image Processing and Game Develop
+
+* Experience in program languages: 
+  * 5 years in Android, Java and C
+  * 3 years in  C++, DirectX11, OpenGL, HLSL and GLSL
+  * 1 year in LUA scripting, MaxScript
+  * 3 years in Python, Matlab, HTML, JSP, Javascript and Servlet
+
+
+Languages 
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 49 different slack teams
+  * English: Level B of spoken and written
+  * Catalan: Intermediate level of spoken and written (Universitat de Barcelona)
+  * Spanish: Intermediate level of spoken and written (Escola Oficial de Idiomes)
+  * Hungarian: Native level
