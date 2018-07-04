@@ -17,43 +17,39 @@ Specialties: Android, iPhone, Game UI, code build
 
 Education
 ======
-* 2013-2014 **M.S. in Creation of Video Game**, _Universitat Pompeu Fabra_, Barcelona
-* 2009-2013 **B.S. in Computer Engineering**, _Universitat de Barcelona_, Barcelona
+* **[2013-2014] M.S. in Creation of Video Game**, _Universitat Pompeu Fabra_, Barcelona
+* **[2009-2013] B.S. in Computer Engineering**, _Universitat de Barcelona_, Barcelona
 
 Experience
 ======
 
-## **Game Programmer**, _Cirsa_, Barcelona: 
-### [2016-2018]
+### [2016-2018] **Game Programmer**, _Cirsa_, Barcelona:  
   * Software Developer of the new multi bingo games of Cirsa a sold under the brand named MyBingo. 
-	The technologies used in the project are: C++, Costum Script Language, OpenGL. 
+	The technologies used in the project are: C++, OpenGL and Internal Costum Script Language . 
 
 
-## **Gameplay Programmer**, _Digital Legends Entertainment_, Barcelona: 
-### [2015-2016]
-  * Afterpulse :
+## [2015-2016] **Gameplay Programmer**, _Digital Legends Entertainment_, Barcelona: 
+  * **Afterpulse**:
     Architecture, design and implementation of games for native mobile platforms, currently Apple iOS.
 	The technologies used in the project are: Visual C++( Visual Studio )
 	Using project management tools such as: Jira, Confluence and Plastic SCM.
 
 	
-## **Junior Programmer**, _Barcelona Digital Technology Center_, Barcelona:
-### [2012-2015]
-  * eKauri:
+### [2012-2015] **Junior Programmer**, _Barcelona Digital Technology Center_, Barcelona:
+  * **eKauri**:
 	EKauri is an e-health and smart home platform that empowers seniors to gain autonomy, participate in modern society, and achieve independence through ICT-based solutions.
 
 	I was responsible for the design and develop of videoconference API based on WebRTC technology, support voice and video conference between Android and PC. 
 	The solution was developed on Java, Python, GAE and WSO2.
 
   
-  * Easit4All: 
+  * **Easit4All**: 
 	The EASIT4ALL project aims to provide to any person independently of its disability an accessible way to use main functionalities of social networks. Thus, Easit4all solution consist of a web interface that merges in a simple and intuitive way different social networks.
 
     The software solution is a simple java based framework. It uses Java Spring Framework (MVC, Security, JPA and Social), HTML5, JQuery, CSS3 and MySQL database.
 
-## **Internship**, _Barcelona Digital Technology Center_, Barcelona:
-### [2012-2013]
-  * Saapho:
+### [2012-2013] **Internship**, _Barcelona Digital Technology Center_, Barcelona: 
+  * **Saapho**:
 	The main objective of SAAPHO is to support Active Ageing by assisting seniors to participate in the self-serve society preserving and enhancing independence and dignity through the application of innovative ICT-based solutions.
 
 	My primary responsibility was develop a Social Gateway. The objectives of this gateway are providing communication tools to discuss, activities with friends, share photos and videos via Facebook, Twitter and Google+.
