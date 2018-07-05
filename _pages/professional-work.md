@@ -26,11 +26,25 @@ Experience
 	</a>
 </p>
 
-
-### [2016-Present] **Game Programmer**, _Cirsa_, Barcelona:  
+<p align="justify">
+<b> [2016-Present] Game Programmer, <i>Cirsa</i>, Barcelona: </b>
 Software Developer of the new multi bingo games of Cirsa a sold under the brand named MyBingo. 
 The technologies used in the project are: C++, OpenGL and Internal Costum Script Language. 
+</p>
 
+<p align="center">
+	<a href="http://www.digital-legends.com">
+	<img width="512" height="256" src="https://giron3s.github.io/images/dle-400x250.png" />
+	</a>
+</p>
+
+
+<p align="justify">
+<b> [2015-2016] Gameplay Programmer, <i>Digital Legends Entertainment</i>, Barcelona: </b>
+Architecture, design and implementation of games for native mobile platforms, currently Apple iOS.
+The technologies used in the project are: Visual C++( Visual Studio )
+Using project management tools such as: Jira, Confluence and Plastic SCM. 
+</p>
 
 <p align="center">
 	<a href="http://www.digital-legends.com">
@@ -40,14 +54,12 @@ The technologies used in the project are: C++, OpenGL and Internal Costum Script
 
 
 
-<p>
-### [2015-2016] **Gameplay Programmer**, _Digital Legends Entertainment_, Barcelona: 
-**[Afterpulse](https://github.com/user/repo/blob/branch/other_file.md)**:
-Architecture, design and implementation of games for native mobile platforms, currently Apple iOS.
-The technologies used in the project are: Visual C++( Visual Studio )
-Using project management tools such as: Jira, Confluence and Plastic SCM.
-	<img width="256" height="256" src="https://giron3s.github.io/images/afterpulse-256x256.jpg" align="right">
-</p>
+
+
+
+
+
+
 
 ### [2012-2015] **Junior Programmer**, _Barcelona Digital Technology Center_, Barcelona:
   * **eKauri**:
