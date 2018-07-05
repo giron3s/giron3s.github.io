@@ -44,13 +44,16 @@ The technologies used in the project are: C++, OpenGL and Internal Costum Script
 Architecture, design and implementation of games for native mobile platforms, currently Apple iOS.
 The technologies used in the project are: Visual C++( Visual Studio )
 Using project management tools such as: Jira, Confluence and Plastic SCM. 
-</p>
 
 <p align="right">
 	<a href="http://www.digital-legends.com/game_afterpulse.html">
 	<img width="512" height="256" src="https://giron3s.github.io/images/afterpulse-256x256.jpg" />
 	</a>
 </p>
+
+
+</p>
+
 
 
 
