@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Professional Work"
+excerpt: "hort description of portfolio item num<br/><img src='/images/afterpulse-512x256.jpg'>"
 permalink: /professional-work/
 author_profile: true
 redirect_from:
@@ -28,6 +29,8 @@ Experience
     Architecture, design and implementation of games for native mobile platforms, currently Apple iOS.
 	The technologies used in the project are: Visual C++( Visual Studio )
 	Using project management tools such as: Jira, Confluence and Plastic SCM.
+
+https://academicpages.github.io/portfolio/
 
 	
 ### [2012-2015] **Junior Programmer**, _Barcelona Digital Technology Center_, Barcelona:
