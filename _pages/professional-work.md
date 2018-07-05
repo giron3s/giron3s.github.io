@@ -22,7 +22,14 @@ Experience
   * Software Developer of the new multi bingo games of Cirsa a sold under the brand named MyBingo. 
 	The technologies used in the project are: C++, OpenGL and Internal Costum Script Language . 
 
-	![https://www.cirsa.com/](https://giron3s.github.io/images/cirsa-300x93.jpg)
+<p align="center">
+	<a href="https://www.cirsa.com/">
+	<img width="512" height="256" src="https://giron3s.github.io/images/cirsa-300x93.jpg" />
+	</a>
+</p>
+
+
+
 
 ### [2015-2016] **Gameplay Programmer**, _Digital Legends Entertainment_, Barcelona: 
   * **[Afterpulse](https://github.com/user/repo/blob/branch/other_file.md)**:
