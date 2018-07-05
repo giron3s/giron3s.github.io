@@ -40,7 +40,7 @@ The technologies used in the project are: C++, OpenGL and Internal Costum Script
 
 <p align="justify">
 	<b> [2015-2016] Gameplay Programmer, <i>Digital Legends Entertainment</i>, Barcelona: </b><br />
-	<img width="128" height="128" src="https://giron3s.github.io/images/afterpulse-256x256.jpg" align="right" border="10"/>
+	<img width="128" height="128" style="margin:20px 20px" src="https://giron3s.github.io/images/afterpulse-256x256.jpg" align="right" border="10"/>
 	Architecture, design and implementation of games for native mobile platforms, currently Apple iOS.<br/><br/>
 	The technologies used in the project are: Visual C++( Visual Studio ) <br/><br/>
 	Using project management tools such as: Jira, Confluence and Plastic SCM. <br/><br/>
