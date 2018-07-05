@@ -29,18 +29,20 @@ Experience
 </p>
 
 
-
-
 ### [2015-2016] **Gameplay Programmer**, _Digital Legends Entertainment_, Barcelona: 
   * **[Afterpulse](https://github.com/user/repo/blob/branch/other_file.md)**:
     Architecture, design and implementation of games for native mobile platforms, currently Apple iOS.
 	The technologies used in the project are: Visual C++( Visual Studio )
 	Using project management tools such as: Jira, Confluence and Plastic SCM.
 
-	<p align="center">
-	  <img width="512" height="256" src="https://giron3s.github.io/images/afterpulse-512x256.jpg">
-	</p>
-	
+
+<p align="center">
+	<a href="http://www.digital-legends.com/game_afterpulse.html">
+	<img width="512" height="256" src="https://giron3s.github.io/images/afterpulse-512x256.jpg" />
+	</a>
+</p>
+
+
 ### [2012-2015] **Junior Programmer**, _Barcelona Digital Technology Center_, Barcelona:
   * **eKauri**:
 	EKauri is an e-health and smart home platform that empowers seniors to gain autonomy, participate in modern society, and achieve independence through ICT-based solutions.
@@ -48,8 +50,12 @@ Experience
 	I was responsible for the design and develop of videoconference API based on WebRTC technology, support voice and video conference between Android and PC. 
 	The solution was developed on Java, Python, GAE and WSO2.
 
-  
-	![https://www.ekauri.com/](https://giron3s.github.io/images/eKauri-512x193.jpg)
+<p align="center">
+	<a href="https://www.ekauri.com/">
+	<img width="512" height="256" src="https://giron3s.github.io/images/eKauri-512x193.jpg" />
+	</a>
+</p>
+
 
   * **Easit4All**: 
 	The EASIT4ALL project aims to provide to any person independently of its disability an accessible way to use main functionalities of social networks. Thus, Easit4all solution consist of a web interface that merges in a simple and intuitive way different social networks.
@@ -64,6 +70,9 @@ Experience
 	
 	The system was developed in Spring Framework, Spring Social, Spring Security, MySQL, SOAP and Hibernate.
 
-	![http://www.aal-europe.eu/projects/saapho/](https://giron3s.github.io/images/saapho-300x80.png)
-
+<p align="center">
+	<a href="http://www.aal-europe.eu/projects/saapho/">
+	<img width="512" height="256" src="https://giron3s.github.io/images/saapho-300x80.png" />
+	</a>
+</p>
 
