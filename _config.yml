@@ -168,16 +168,16 @@ kramdown:
 
 # Collections
 collections:
-  skills:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  professional-work:
     output: true
     permalink: /:collection/:path/
-  talks:
+  personal-work:
+    output: true
+    permalink: /:collection/:path/
+  skills:
     output: true
     permalink: /:collection/:path/
 
@@ -202,15 +202,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _skills
-  - scope:
-      path: ""
-      type: skills
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -220,23 +211,33 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _professional-work
   - scope:
       path: ""
-      type: portfolio
+      type: professional-work
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _personal-work
   - scope:
       path: ""
-      type: talks
+      type: personal-work
     values:
       layout: talk
       author_profile: true
       share: true
+      comments: true
+  # _skills
+  - scope:
+      path: ""
+      type: skills
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
       
 # Sass/SCSS
 sass:

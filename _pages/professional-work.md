@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Professional Work"
+permalink: /professional-work/
 author_profile: true
 redirect_from:
   - /resume
@@ -14,11 +14,6 @@ Summary
 Software developer with 10 years of experience in the game industry. Worked in games for _App Store_,
 _Google Play_ and other platforms.
 Specialties: Android, iPhone, Game UI, code build
-
-Education
-======
-* **[2013-2014] M.S. in Creation of Video Game**, _Universitat Pompeu Fabra_, Barcelona
-* **[2009-2013] B.S. in Computer Engineering**, _Universitat de Barcelona_, Barcelona
 
 Experience
 ======
@@ -56,9 +51,3 @@ Experience
 	
 	The system was developed in Spring Framework, Spring Social, Spring Security, MySQL, SOAP and Hibernate.
 
-Languages 
-======
-  * **English**: Level B of spoken and written
-  * **Catalan**: Intermediate level of spoken and written (Universitat de Barcelona)
-  * **Spanish**: Intermediate level of spoken and written (Escola Oficial de Idiomes)
-  * **Hungarian**: Native level
