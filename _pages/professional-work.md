@@ -23,7 +23,7 @@ Experience
 	The technologies used in the project are: C++, OpenGL and Internal Costum Script Language . 
 
 
-## [2015-2016] **Gameplay Programmer**, _Digital Legends Entertainment_, Barcelona: 
+### [2015-2016] **Gameplay Programmer**, _Digital Legends Entertainment_, Barcelona: 
   * **Afterpulse**:
     Architecture, design and implementation of games for native mobile platforms, currently Apple iOS.
 	The technologies used in the project are: Visual C++( Visual Studio )
@@ -39,6 +39,8 @@ Experience
 	The solution was developed on Java, Python, GAE and WSO2.
 
   
+	![eKauri](https://giron3s.github.io/images/eKauri-512x193.jpg)
+
   * **Easit4All**: 
 	The EASIT4ALL project aims to provide to any person independently of its disability an accessible way to use main functionalities of social networks. Thus, Easit4all solution consist of a web interface that merges in a simple and intuitive way different social networks.
 
