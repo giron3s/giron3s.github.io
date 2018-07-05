@@ -74,7 +74,7 @@ The technologies used in the project are: C++, OpenGL and Internal Costum Script
 
 				The software solution is a simple java based framework. It uses Java Spring Framework (MVC, Security, JPA and Social), HTML5, JQuery, CSS3 and MySQL database.
 			</p>
-		</li
+		</li>
 	</ul>  
 </p>
 
