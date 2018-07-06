@@ -20,7 +20,7 @@ Projects
 </p>
 
 <p align="justify">
-	<u><b><a href="https://www.youtube.com/watch?v=yvkdEE572uE">[2013] Human motion capture with KINECT(C++):</a></b></u>
+	<u><b><a href="https://www.youtube.com/watch?v=yvkdEE572uE">[2014] Human motion capture with KINECT(C++):</a></b></u>
 	<br/>
 	It is application which capture the human movement with depth and the color camera and translate these movement on the virtual character.
 	<br/><br/>
