@@ -36,7 +36,8 @@ The technologies used in the project are: C++, OpenGL and Internal Costum Script
 	<a href="http://www.digital-legends.com">
 	<img width="400" height="250" src="https://giron3s.github.io/images/dle-400x250.png" />
 	</a>
-</p>
+</p> 
+
 
 <p align="justify">
 	<b> [2015-2016] Gameplay Programmer, <i>Digital Legends Entertainment</i>, Barcelona: </b><br/>
