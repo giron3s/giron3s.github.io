@@ -28,7 +28,7 @@ Experience
 
 <p align="justify">
 <b> [2016-Present] Game Programmer, <i>Cirsa</i>, Barcelona: </b> <br />
-Software Developer of the new multi bingo games of Cirsa a sold under the brand named <br>MyBingo<br/>. 
+Software Developer of the new multi bingo games of Cirsa a sold under the brand named <b>MyBingo<b/>. 
 The technologies used in the project are: C++, OpenGL and Internal Costum Script Language. 
 </p>
 

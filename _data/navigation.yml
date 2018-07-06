@@ -1,24 +1,4 @@
 # main links links
-#main:
-#  - title: "Publications"
-#    url: /publications/
-#
-#  #- title: "Talks"
-#  #  url: /talks/    
-#        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-#    
-#  - title: "Skills"
-#    url: /skills/   
-#    
-#    
-#  - title: "CV"
-#    url: /cv/
-
-
-
-# main links links
 main:
   - title: "Publications"
     url: /publications/
@@ -29,13 +9,11 @@ main:
   - title: "Personal Work"
     url: /personal-work/
 
-   
   - title: "Skills"
     url: /skills/   
     
-
   - title: "CV"
-    url: /files/paper1.pdf
+    url: /files/CV_MarcGironesD_2018_en.pdf
 
     
 
