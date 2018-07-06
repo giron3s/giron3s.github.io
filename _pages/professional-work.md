@@ -42,7 +42,7 @@ The technologies used in the project are: C++, OpenGL and Internal Costum Script
 	<b> [2015-2016] Gameplay Programmer, <i>Digital Legends Entertainment</i>, Barcelona: </b><br/>
 	<img width="128" height="128" style="margin:20px 20px" src="https://giron3s.github.io/images/afterpulse-256x256.jpg" align="right" border="10"/>
 	
-	<u><b><a href="http://www.digital-legends.com/game_afterpulse.html">Afterpulse:</a><u><b><br />
+	<u><b><a href="http://www.digital-legends.com/game_afterpulse.html">Afterpulse:</a></u></b><br/>
 	
 	Architecture, design and implementation of games for native mobile platforms, currently Apple iOS.<br/>
 	The technologies used in the project are: Visual C++( Visual Studio ) <br/><br/>
@@ -61,7 +61,7 @@ The technologies used in the project are: C++, OpenGL and Internal Costum Script
 	<b> [2012-2015] Junior Programmer, <i>Barcelona Digital Technology Center</i>, Barcelona: </b> <br />
 
 	<p align="justify">
-		<u><b>EKauri:</b></u><br />
+		<u><b><a href="https://www.ekauri.com/?lang=en">EKauri:</a></u></b><br/>
 		<img width="128" height="128" style="margin:20px 20px" src="https://giron3s.github.io/images/eKauri-512x193.jpg" align="right"/>
 		EKauri is an e-health and smart home platform that empowers seniors to gain autonomy, participate in modern society, and achieve independence through ICT-based solutions.<br/><br/>
 
@@ -71,7 +71,7 @@ The technologies used in the project are: C++, OpenGL and Internal Costum Script
 
 	
 	<p align="justify">
-		<u><b>Easit4All:</b></u><br />
+		<u><b><a href="http://gpii.github.io/cloud4all.html">Easit4All:</a></u></b><br/>
 		The EASIT4ALL project aims to provide to any person independently of its disability an accessible way to use main functionalities of social networks. Thus, Easit4all solution consist of a web interface that merges in a simple and intuitive way different social networks.<br/><br/>
 
 		The software solution is a simple java based framework. It uses Java Spring Framework (MVC, Security, JPA and Social), HTML5, JQuery, CSS3 and MySQL database.
@@ -83,7 +83,8 @@ The technologies used in the project are: C++, OpenGL and Internal Costum Script
 
 	<img width="128" height="128" style="margin:20px 20px" src="https://giron3s.github.io/images/saapho-300x80.png" align="right"/>
 	
-	<u><b>SAAPHO:</b></u><br />
+	<u><b><a href="https://www.youtube.com/watch?v=dZW2pL2j7ZE&t=12s">SAAPHO:</a></u></b><br/>	
+	
 	The main objective of SAAPHO is to support Active Ageing by assisting seniors to participate in the self-serve society preserving and enhancing independence and dignity through the application of innovative ICT-based solutions.<br/><br/>
 
 	My primary responsibility was develop a Social Gateway. The objectives of this gateway are providing communication tools to discuss, activities with friends, share photos and videos via Facebook, Twitter and Google+.<br/><br/>
