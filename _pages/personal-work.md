@@ -14,6 +14,7 @@ Projects
 
 <p align="justify">
 	<u><b><a href="https://www.facebook.com/daishogame/">[2015] Daisho ((Videogame, C++)):</a></b></u>
+	<br/>
 	It’s a 3rd person combat game with platform elements, developed by 3 artist and programmers under own game engine (C++ and DirectX 11) to PC. 
 	<br/>
 	My primary tasks was integrate scripting game AI, physic and graphics engine.
