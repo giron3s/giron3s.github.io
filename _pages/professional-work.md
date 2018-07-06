@@ -29,7 +29,7 @@ Experience
 <p align="justify">
 <b> [2016-Present] Game Programmer, <i>Cirsa</i>, Barcelona: </b> <br />
 Software Developer of the new multi bingo games of Cirsa a sold under the brand named <b>MyBingo</b>. 
-The technologies used in the project are: C++, OpenGL and Internal Costum Script Language. 
+The technologies used in the project are: C++, OpenGL and Internal Costum Script Language. <br/><br/>
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@ The technologies used in the project are: C++, OpenGL and Internal Costum Script
 
 	<img width="128" height="128" style="margin:20px 20px" src="https://giron3s.github.io/images/saapho-300x80.png" align="right"/>
 	
-	<u><b><a href="https://www.youtube.com/watch?v=dZW2pL2j7ZE&t=12s">SAAPHO:</a></b></u><br/>	
+	<u><b><a href="https://www.youtube.com/watch?v=dZW2pL2j7ZE">SAAPHO:</a></b></u><br/>	
 	
 	The main objective of SAAPHO is to support Active Ageing by assisting seniors to participate in the self-serve society preserving and enhancing independence and dignity through the application of innovative ICT-based solutions.<br/><br/>
 
