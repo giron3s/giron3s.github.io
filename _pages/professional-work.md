@@ -28,7 +28,7 @@ Experience
 
 <p align="justify">
 <b> [2016-Present] Game Programmer, <i>Cirsa</i>, Barcelona: </b> <br />
-Software Developer of the new multi bingo games of Cirsa a sold under the brand named <b>MyBingo<b/>. 
+Software Developer of the new multi bingo games of Cirsa a sold under the brand named <b>MyBingo</b>. 
 The technologies used in the project are: C++, OpenGL and Internal Costum Script Language. 
 </p>
 
@@ -45,7 +45,7 @@ The technologies used in the project are: C++, OpenGL and Internal Costum Script
 	
 	<u><b><a href="http://www.digital-legends.com/game_afterpulse.html">Afterpulse:</a></b></u><br/>
 	
-	Architecture, design and implementation of games for native mobile platforms, currently Apple iOS.<br/>
+	Architecture, design and implementation of games for native mobile platforms, currently iOS, AppleTV and Android.<br/>
 	The technologies used in the project are: Visual C++( Visual Studio ) <br/><br/>
 	Using project management tools such as: Jira, Confluence and Plastic SCM. <br/><br/>
 </p>

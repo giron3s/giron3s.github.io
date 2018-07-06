@@ -7,27 +7,27 @@ redirect_from:
   - /resume
 ---
 
-## * UML and Agile Software Development( Scrum and Kanban )
-## * Tools knowledge: 
+* ## UML and Agile Software Development( Scrum and Kanban )
+* ## Tools knowledge: 
   *	**IDEs**: Visual Studio, QtCreator, Eclipse and Netbeans
   * **Tools for modeling**: 3D Studio Max and Blender 
   * **Version control tools**: Plastic SCM, JIRA, Git and Subversion
   * **Profiler tools**: Shiny, Renderdoc by Crytek, VS Frame Analysis
   * **Other tools**: AntTweekBar
 
-## * Knowledge to develop graphics engine:
+* ## Knowledge to develop graphics engine:
   * Deferred shading
   * Shadows and illuminations ( Cascade shadow, Volumetric lights)
   * Post processing (SMAA, SSAO, DOF, Bloom, Godrays, Toon shading)
   * Image processing (Seam carving, Bilateral filter)
 
-## * Extensive knowledge in AI :
+* ## Extensive knowledge in AI :
   * Intelligence based on Behavior tree, Finite State Machine
   * Path finding
   * LUA scripting
   * Learning Algorithms
 
-## * Knowledge with standards and framework :
+* ## Knowledge with standards and framework :
   * Web Services, Spring Framework, Social Spring, Spring Security
  ( OAuth1 and OAuth2)
   * Servlets, Hibernate, Maven, JUnit,
@@ -39,7 +39,7 @@ redirect_from:
   * Wide experience develop in mobile development 
   * Experience on Image Processing and Game Develop
 
-*## Experience in program languages: 
+* ## Experience in program languages: 
   * 5 years in C++, Java, Android and C
   * 3 years in DirectX11, OpenGL, HLSL and GLSL
   * 1 year in LUA scripting, MaxScript
