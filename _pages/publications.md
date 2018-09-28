@@ -4,7 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-<p><b>More publications comming soon</b></p>
+Coming soon! More!
 
 {% include base_path %}
 
