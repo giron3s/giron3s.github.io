@@ -4,7 +4,9 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-Coming soon! More!
+
+##Coming soon! More!
+
 
 {% include base_path %}
 
