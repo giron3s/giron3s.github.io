@@ -80,7 +80,7 @@ The technologies used in the project are: C++, OpenGL and Internal Costum Script
 </p>
 
 <p align="justify">
-	<b> [2012-2013] Internship, <i>Digital Legends Entertainment</i>, Barcelona: </b> <br/>
+	<b> [2012-2013] Internship, <i>Barcelona Digital Technology Center</i>, Barcelona: </b> <br/>
 
 	<img width="128" height="128" style="margin:20px 20px" src="https://giron3s.github.io/images/saapho-300x80.png" align="right"/>
 	
