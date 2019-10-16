@@ -21,13 +21,25 @@ Experience
 ======
 
 <p align="center">
+	<a href="http://winsysgroup.com/es/">
+	<img width="300" height="93" src="https://giron3s.github.io/images/winsystem-287x175.jpg" />
+	</a>
+</p>
+
+<p align="justify">
+<b> [2019-Present] Senior C# Game Programmer, <i>Winsystem</i>, Barcelona: </b> <br />
+Programming of slot games, technical support and maintenance of updates. 
+The technologies used in the project are: DirectX and C#.<br/><br/>
+</p>
+
+<p align="center">
 	<a href="https://www.cirsa.com/">
 	<img width="300" height="93" src="https://giron3s.github.io/images/cirsa-300x93.jpg" />
 	</a>
 </p>
 
 <p align="justify">
-<b> [2016-Present] Game Programmer, <i>Cirsa</i>, Barcelona: </b> <br />
+<b> [2016-2019] Game Programmer, <i>Cirsa</i>, Barcelona: </b> <br />
 Software Developer of the new multi bingo games of Cirsa a sold under the brand named <b>MyBingo</b>. 
 The technologies used in the project are: C++, OpenGL and Internal Costum Script Language. <br/><br/>
 </p>
