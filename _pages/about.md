@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi, I am Marc Girones and I work as a Game Programmer at Cirsa in Barcelona, Spain. 
+Hi, I am Marc Girones and I work as a Game Programmer at Winsystem in Sant Cugat, Spain. 
 
 In 2013, I graduated a bachelor’s degree in Computer Science at University of Barcelona. During the university years I decided to professionalize my passion (video game/ computer graphics). So my final year project was related with Computer Graphics, the project was a motion capture. 
 
