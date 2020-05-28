@@ -1,7 +1,7 @@
 ---
 title: "std::optional"
 collection: publications
-permalink: /publications/2020-01-01-std:optional
+permalink: /publications/2020-01-01-std_optional
 excerpt: 'std::optional'
 excerpt: "<i>std::optional</i><br/>`std` `c++17` `standard library` `functional programming`"
 tags:
