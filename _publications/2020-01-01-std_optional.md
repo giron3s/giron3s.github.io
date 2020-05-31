@@ -63,11 +63,9 @@ But did you tried with the empty "test.txt" file? If you don't try it, i tell yo
 >> "File test.txt could not be opened!" message.
 {% endhighlight  c++ %}
 
-
 ![](no.gif)
 
-
-But it is not true! The file could be opened, just there was nothing in it. 
+**But it is not true! The file could be opened, just there was nothing in it.**
 So the problem here that we're returning a value of the string that means there is no file. There is possible to have a files that are empty. 
 
 ### I know, many readers say that I know the solution. "std::pair<bool, std::string>" 
@@ -89,7 +87,7 @@ std::pair<bool, std::string> LoadFile()
 So now we are handling all cases. If the file don't exist we got the error message. Otherwise we print the file's content and if the file is empty than we get the empty string.
 But this solution is a little bit clunky. You have to remember that the first bool means exist the file, the second means file content. 
 
-###It is not a self descriptive solution :(
+### It is not a self descriptive solution :(
 ![](sad.gif)
 
 # std::optional
