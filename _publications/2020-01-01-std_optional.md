@@ -89,7 +89,8 @@ std::pair<bool, std::string> LoadFile()
 So now we are handling all cases. If the file don't exist we got the error message. Otherwise we print the file's content and if the file is empty than we get the empty string.
 But this solution is a little bit clunky. You have to remember that the first bool means exist the file, the second means file content. 
 
-![It is not a self descriptive solution :(](no.gif)
+###It is not a self descriptive solution :(
+![](sad.gif)
 
 # std::optional
 
