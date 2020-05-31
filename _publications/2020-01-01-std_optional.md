@@ -12,9 +12,9 @@ tags:
 
 # Problem
 
-Today we're gonna be looking the std::optional for those that who aren't use std::optional yet. I will try to show you a little bit why it is usefull and how you can use it. But those of you who are already in the know about the std::optional maybe I can show you a few additional applications you might not have thought.
+Today we're gonna be looking the **std::optional** for those that who aren't use std::optional yet. I will try to show you a little bit why it is usefull and how you can use it. But those of you who are already in the know about the std::optional maybe I can show you a few additional applications you might not have thought.
 
-So question is why you want this std::optional? Usually, you can use if you want to represent a nullable type nicely, Return a result of some computation (processing) that fails to produce a value and is not an error, or perform lazy-loading of resources. It is messy? Let me show you on the example. Let's we load the file.
+**So question is why you want this std::optional?** Usually, you can use if you want to represent a nullable type nicely, Return a result of some computation (processing) that fails to produce a value and is not an error, or perform lazy-loading of resources. It is messy? Let me show you on the example. Let's we load the file.
 
 
 # The Basics
@@ -56,19 +56,21 @@ int main()
 
 
 It look all fine? Right?
-If the file don't exist we got the error message. Otherwise we print the file's content. But did you tried with the empty "test.txt" file?
-
-If you don't try it, i tell you the answer. We get
+If the file don't exist we got the error message. Otherwise we print the file's content. 
+But did you tried with the empty "test.txt" file? If you don't try it, i tell you the answer. We get
 
 {% highlight c++ %}
 >> "File test.txt could not be opened!" message.
 {% endhighlight  c++ %}
 
 
+![](no.gif)
+
+
 But it is not true! The file could be opened, just there was nothing in it. 
 So the problem here that we're returning a value of the string that means there is no file. There is possible to have a files that are empty. 
 
-###I know, many readers say that I know the solution. "std::pair<bool, std::string>" 
+### I know, many readers say that I know the solution. "std::pair<bool, std::string>" 
 
 {% highlight c++ %}
 std::pair<bool, std::string> LoadFile()
@@ -86,8 +88,8 @@ std::pair<bool, std::string> LoadFile()
 
 So now we are handling all cases. If the file don't exist we got the error message. Otherwise we print the file's content and if the file is empty than we get the empty string.
 But this solution is a little bit clunky. You have to remember that the first bool means exist the file, the second means file content. 
-###It is not a self descriptive solution :(
 
+![It is not a self descriptive solution :(](no.gif)
 
 # std::optional
 
@@ -117,6 +119,8 @@ int main()
 
 
 Simple, readable and sexy solution. 
+
+![](awesome.gif)
 
 Thank you for reading!
 
