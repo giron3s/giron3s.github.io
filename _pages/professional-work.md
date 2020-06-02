@@ -27,9 +27,13 @@ Experience
 </p>
 
 <p align="justify">
-<b> [2019-Present] Senior C# Game Programmer, <i>Winsystem</i>, Barcelona: </b> <br />
-Programming of slot games, technical support and maintenance of updates. 
-The technologies used in the project are: DirectX and C#.<br/><br/>
+<b> [2019-Present] <i>Winsystem</i>, Barcelona: </b> <br />
+<b> Team Lead </b><br/>
+Leading slot projects for the Spahish market, as well as assessing the team in the adoption of Scrum methodology and CI workflows involving branching and versioning strategy and code quality assurance.<br/><br/>
+
+<b> Senior C# Game Programmer</b> <br />
+Analysis and implementation of improvements and technological updates for slot games at Spanish market. 
+Technologies: C#, DirectX; SlimDX, Azure DevOps Server, WebLate <br/><br/>
 </p>
 
 <p align="center">
