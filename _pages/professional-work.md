@@ -27,38 +27,38 @@ Experience
 </p>
 
 <p align="justify">
-<b> [2019-Present] <i>Win System</i> </b> <br />
-<b> Team Lead </b><br/>
+<b> Win System </b> [2019-Present] <br />
+<b> Software Developement Team Lead </b><br/>
 Leading development of new slot platform. <br />
 • HW library for Quixant and Axiomtek embedded computer box <br />
 • Devices like Ticket Printer, NFC, Bill Acceptor & Diverter, Coin Acceptor <br />
 • Leading implementation of core platform to the Unity engine. Math Library, Progressive Library, Slot Component <br />
 <br/><br/>
 
-<b> Senior C# Game Programmer</b> <br />
+<b> Senior Game Programmer</b> <br />
 Analysis and implementation of improvements and technological updates for slot games at Spanish market. <br />
-Technologies: C#, DirectX; SlimDX, Azure DevOps Server, WebLate <br/><br/>
+<b>Technologies:</b> C#, DirectX; SlimDX, Azure DevOps Server, WebLate <br/><br/>
 </p>
 
 
 <p align="justify">
-	<b> [2012-2015] Founder and Project Management, <i> Dragon coins </i></b> <br />
+	<b> Dragon Coins </b> [2021-Present] <br />
+  <b> Founder & Project Management </b><br/>
 
 	<p align="justify">
-		<u><b><a href="https://www.ekauri.com/?lang=en">EKauri:</a></b></u><br/>
 		<img width="128" height="128" style="margin:20px 20px" src="https://giron3s.github.io/images/eKauri-512x193.jpg" align="right"/>
 		SIDE PROJECT. It is a free, single-player, casual mobile game for Android & iOS. It has had over 10K downloads. <br/><br/>
 		The core loop of the game is a traditional slot machine where player spin the slot machine, gain coins, build his village, and unlock new levels. <br/>
 		PvP Gameplay: There are two possible spin outcomes that open PvP gameplay: attack and raid.<br/>
 		Dragon Collection: The dragons join the players in the game and help them advance faster. <br/><br/>
-		Responsibilities: Project Management, Game Design, Negotiation with	Publisher, Backend development
+		<b>Responsabilities:</b>: Project Management, Game Design, Negotiation with	Publisher, Backend development
 	</p>
 
 	<p align="center">
 	<a href="http://www.bcndigital.org/">
-	<img width="400" height="182" src="https://giron3s.github.io/images/bdigital-512x233.jpg" />
-	<img width="400" height="182" src="https://giron3s.github.io/images/bdigital-512x233.jpg" />
-	<img width="400" height="182" src="https://giron3s.github.io/images/bdigital-512x233.jpg" />
+	<img width="400" height="182" src="https://giron3s.github.io/images/DC_1.jpg" />
+	<img width="400" height="182" src="https://giron3s.github.io/images/DC_2.jpg" />
+	<img width="400" height="182" src="https://giron3s.github.io/images/DC_3.jpg" />
 	</a>
 </p>
 
