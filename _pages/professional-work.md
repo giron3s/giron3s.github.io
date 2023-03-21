@@ -27,36 +27,48 @@ Experience
 </p>
 
 <p align="justify">
-<b> [2019-Present] <i>Winsystem</i>, Barcelona: </b> <br />
+<b> [2019-Present] <i>Win System</i> </b> <br />
 <b> Team Lead </b><br/>
-Leading development of new slot platform. • HW library for Quixant and Axiomtek embedded computer box • Devices like Ticket Printer, NFC, Bill Acceptor & Diverter, Coin Acceptor • Leading implementation of core platform to the Unity engine. Math Library, Progressive Library, Slot Component
+Leading development of new slot platform. <br />
+• HW library for Quixant and Axiomtek embedded computer box <br />
+• Devices like Ticket Printer, NFC, Bill Acceptor & Diverter, Coin Acceptor <br />
+• Leading implementation of core platform to the Unity engine. Math Library, Progressive Library, Slot Component <br />
 <br/><br/>
 
 <b> Senior C# Game Programmer</b> <br />
-Analysis and implementation of improvements and technological updates for slot games at Spanish market. 
+Analysis and implementation of improvements and technological updates for slot games at Spanish market. <br />
 Technologies: C#, DirectX; SlimDX, Azure DevOps Server, WebLate <br/><br/>
 </p>
 
 
 <p align="justify">
-<b> [2021-Present] <i>Dragon Coins</i> </b> <br />
-<b> Founder and Project Management </b><br/>
-<b> SIDE PROJECT. It is a free, single-player, casual mobile game for Android & iOS. It has had over 10K downloads.
-The core loop of the game is a traditional slot machine where player spin the
-slot machine, gain coins, build his village, and unlock new levels.
-PvP Gameplay: There are two possible spin outcomes that open PvP
-gameplay: attack and raid.
-Dragon Collection: The dragons join the players in the game and help them
-advance faster.
-Responsibilities: Project Management, Game Design, Negotiation with
-Publisher, Backend development
- </b><br/>
+	<b> [2012-2015] Founder and Project Management, <i> Dragon coins </i></b> <br />
+
+	<p align="justify">
+		<u><b><a href="https://www.ekauri.com/?lang=en">EKauri:</a></b></u><br/>
+		<img width="128" height="128" style="margin:20px 20px" src="https://giron3s.github.io/images/eKauri-512x193.jpg" align="right"/>
+		SIDE PROJECT. It is a free, single-player, casual mobile game for Android & iOS. It has had over 10K downloads. <br/><br/>
+		The core loop of the game is a traditional slot machine where player spin the slot machine, gain coins, build his village, and unlock new levels. <br/>
+		PvP Gameplay: There are two possible spin outcomes that open PvP gameplay: attack and raid.<br/>
+		Dragon Collection: The dragons join the players in the game and help them advance faster. <br/><br/>
+		Responsibilities: Project Management, Game Design, Negotiation with	Publisher, Backend development
+	</p>
+
+	<p align="center">
+	<a href="http://www.bcndigital.org/">
+	<img width="400" height="182" src="https://giron3s.github.io/images/bdigital-512x233.jpg" />
+	<img width="400" height="182" src="https://giron3s.github.io/images/bdigital-512x233.jpg" />
+	<img width="400" height="182" src="https://giron3s.github.io/images/bdigital-512x233.jpg" />
+	</a>
 </p>
+
+</p>
+
 
 <br/><br/>
 
 <p align="center">
-	<a href="https://www.cirsa.com/">
+	<a href="https://unidesa.com/juegos/">
 	<img width="300" height="93" src="https://giron3s.github.io/images/cirsa-300x93.jpg" />
 	</a>
 </p>
