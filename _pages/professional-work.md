@@ -55,9 +55,7 @@ Analysis and implementation of improvements and technological updates for slot g
 
 	<p align="center">
 	<a href="http://www.bcndigital.org/">
-	<img width="240" height="384" src="https://giron3s.github.io/images/DC_1.jpg" />
-	<img width="240" height="384" src="https://giron3s.github.io/images/DC_2.jpg" />
-	<img width="240" height="384" src="https://giron3s.github.io/images/DC_3.jpg" />
+	<img width="811" height="384" src="https://giron3s.github.io/images/DC.jpg" />
 	</a>
 </p>
 
