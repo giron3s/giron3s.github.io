@@ -46,7 +46,6 @@ Analysis and implementation of improvements and technological updates for slot g
   <b> Founder & Project Management </b><br/>
 
 	<p align="justify">
-		<img width="128" height="128" style="margin:20px 20px" src="https://giron3s.github.io/images/eKauri-512x193.jpg" align="right"/>
 		SIDE PROJECT. It is a free, single-player, casual mobile game for Android & iOS. It has had over 10K downloads. <br/><br/>
 		The core loop of the game is a traditional slot machine where player spin the slot machine, gain coins, build his village, and unlock new levels. <br/>
 		PvP Gameplay: There are two possible spin outcomes that open PvP gameplay: attack and raid.<br/>
