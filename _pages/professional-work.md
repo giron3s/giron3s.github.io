@@ -113,28 +113,31 @@ The technologies used in the project are: C++, OpenGL and Internal Costum Script
 
 
 <p align="justify">
-	<b> [2012-2015] Junior Programmer, <i>Barcelona Digital Technology Center</i>, Barcelona: </b> <br />
+	<b> Barcelona Digital Technology Center </b> 2012-2015] <br />
+  <b> Junior Programmer </b><br/>
 
-	<p align="justify">
-		<u><b><a href="https://www.ekauri.com/?lang=en">EKauri:</a></b></u><br/>
-		<img width="128" height="128" style="margin:20px 20px" src="https://giron3s.github.io/images/eKauri-512x193.jpg" align="right"/>
-		EKauri is an e-health and smart home platform that empowers seniors to gain autonomy, participate in modern society, and achieve independence through ICT-based solutions.<br/><br/>
+<p align="justify">
+	<u><b><a href="https://www.ekauri.com/?lang=en">EKauri:</a></b></u><br/>
+	<img width="128" height="128" style="margin:20px 20px" src="https://giron3s.github.io/images/eKauri-512x193.jpg" align="right"/>
+	EKauri is an e-health and smart home platform that empowers seniors to gain autonomy, participate in modern society, and achieve independence through ICT-based solutions.<br/><br/>
 
-		I was responsible for the design and develop of videoconference API based on WebRTC technology, support voice and video conference between Android and PC. 
-		The solution was developed on Java, Python, GAE and WSO2.
-	</p>
+	I was responsible for the design and develop of videoconference API based on WebRTC technology, support voice and video conference between Android and PC. 
+	The solution was developed on Java, Python, GAE and WSO2.
+</p>
 
 	
-	<p align="justify">
-		<u><b><a href="http://gpii.github.io/cloud4all.html">Easit4All:</a></b></u><br/>
-		The EASIT4ALL project aims to provide to any person independently of its disability an accessible way to use main functionalities of social networks. Thus, Easit4all solution consist of a web interface that merges in a simple and intuitive way different social networks.<br/><br/>
+<p align="justify">
+	<u><b><a href="http://gpii.github.io/cloud4all.html">Easit4All:</a></b></u><br/>
+	The EASIT4ALL project aims to provide to any person independently of its disability an accessible way to use main functionalities of social networks. Thus, Easit4all solution consist of a web interface that merges in a simple and intuitive way different social networks.<br/><br/>
 
-		The software solution is a simple java based framework. It uses Java Spring Framework (MVC, Security, JPA and Social), HTML5, JQuery, CSS3 and MySQL database.
-	</p> 
+	The software solution is a simple java based framework. It uses Java Spring Framework (MVC, Security, JPA and Social), HTML5, JQuery, CSS3 and MySQL database.
+</p> 
+
 </p>
 
 <p align="justify">
-	<b> [2012-2013] Internship, <i>Barcelona Digital Technology Center</i>, Barcelona: </b> <br/>
+	<b> Barcelona Digital Technology Center </b> [2012-2013] <br />
+  <b> Internship </b><br/>
 
 	<img width="128" height="128" style="margin:20px 20px" src="https://giron3s.github.io/images/saapho-300x80.png" align="right"/>
 	
