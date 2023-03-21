@@ -40,6 +40,12 @@ Analysis and implementation of improvements and technological updates for slot g
 <b>Technologies:</b> C#, DirectX; SlimDX, Azure DevOps Server, WebLate <br/><br/>
 </p>
 
+<p align="center">
+	<a href="https://unidesa.com/juegos/">
+	<img width="300" height="93" src="https://giron3s.github.io/images/cirsa-300x93.jpg" />
+	</a>
+</p>
+
 
 <p align="justify">
 	<b> Dragon Coins </b> [2021-Present] <br />
@@ -94,7 +100,7 @@ The technologies used in the project are: C++, OpenGL and Internal Costum Script
 
 <p align="justify">
 	<b> Digital Legends Entertainment </b> [2015-2016] <br />
-  <b> Game Programmer </b><br/>
+  <b> Junior Gameplay Programmer </b><br/>
 	<img width="128" height="128" style="margin:20px 20px" src="https://giron3s.github.io/images/afterpulse-256x256.jpg" align="right" border="10"/>
 	
 	<u><b><a href="http://www.digital-legends.com/game_afterpulse.html">Afterpulse:</a></b></u><br/>

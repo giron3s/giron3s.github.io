@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
   - title: "Professional Work"
     url: /professional-work/
 
-  - title: "Personal Work"
+  - title: "Projects"
     url: /personal-work/
+
+  - title: "Blog"
+    url: /publications/
 
   - title: "Skills"
     url: /skills/   
