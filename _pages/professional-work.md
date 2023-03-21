@@ -28,14 +28,14 @@ Experience
 
 <p align="justify">
 <b> Win System </b> [2019-Present] <br />
-<b> Software Developement Team Lead </b><br/>
+<b> Software Developement Team Lead </b> [2020-Present] <br/>
 Leading development of new slot platform. <br />
-• HW library for Quixant and Axiomtek embedded computer box <br />
-• Devices like Ticket Printer, NFC, Bill Acceptor & Diverter, Coin Acceptor <br />
-• Leading implementation of core platform to the Unity engine. Math Library, Progressive Library, Slot Component <br />
+  • HW library for Quixant and Axiomtek embedded computer box <br />
+  • Devices like Ticket Printer, NFC, Bill Acceptor & Diverter, Coin Acceptor <br />
+  • Leading implementation of core platform to the Unity engine. Math Library, Progressive Library, Slot Component <br />
 <br/><br/>
 
-<b> Senior Game Programmer</b> <br />
+<b> Senior Game Programmer</b> [2019]<br />
 Analysis and implementation of improvements and technological updates for slot games at Spanish market. <br />
 <b>Technologies:</b> C#, DirectX; SlimDX, Azure DevOps Server, WebLate <br/><br/>
 </p>
@@ -45,22 +45,19 @@ Analysis and implementation of improvements and technological updates for slot g
 	<b> Dragon Coins </b> [2021-Present] <br />
   <b> Founder & Project Management </b><br/>
 
-	<p align="justify">
-		SIDE PROJECT. It is a free, single-player, casual mobile game for Android & iOS. It has had over 10K downloads. <br/><br/>
-		The core loop of the game is a traditional slot machine where player spin the slot machine, gain coins, build his village, and unlock new levels. <br/>
-		PvP Gameplay: There are two possible spin outcomes that open PvP gameplay: attack and raid.<br/>
-		Dragon Collection: The dragons join the players in the game and help them advance faster. <br/><br/>
-		<b>Responsabilities:</b>: Project Management, Game Design, Negotiation with	Publisher, Backend development
-	</p>
+<p align="justify">
+	SIDE PROJECT. It is a free, single-player, casual mobile game for Android & iOS. It has had over 10K downloads. <br/><br/>
+	The core loop of the game is a traditional slot machine where player spin the slot machine, gain coins, build his village, and unlock new levels. <br/>
+	PvP Gameplay: There are two possible spin outcomes that open PvP gameplay: attack and raid.<br/>
+	Dragon Collection: The dragons join the players in the game and help them advance faster. <br/><br/>
+	<b>Responsabilities:</b>: Project Management, Game Design, Negotiation with	Publisher, Backend development
+</p>
 
-	<p align="center">
-	<a href="http://www.bcndigital.org/">
-	<img width="811" height="384" src="https://giron3s.github.io/images/DC.jpg" />
+<p align="center">
+	<a href="https://play.google.com/store/apps/details?id=com.fiveamstudio.dragoncoins&hl=en&gl=US">
+		<img width="811" height="384" src="https://giron3s.github.io/images/DC.jpg" />
 	</a>
 </p>
-
-</p>
-
 
 <br/><br/>
 
@@ -71,10 +68,22 @@ Analysis and implementation of improvements and technological updates for slot g
 </p>
 
 <p align="justify">
-<b> [2016-2018] Game Programmer, <i>Cirsa</i>, Barcelona: </b> <br />
+
+<b> CIRSA - UNIDESA  </b> [2016-2018] <br />
+<b> Game Programmer </b><br/>
+
 Software Developer of the new multi bingo games of Cirsa a sold under the brand named <b>MyBingo</b>. 
 The technologies used in the project are: C++, OpenGL and Internal Costum Script Language. <br/><br/>
 </p>
+
+<p align="center">
+	<a href="https://unidesa.com/juegos/">
+		<img width="811" height="384" src="https://giron3s.github.io/images/MyBingo.jpg" />
+	</a>
+</p>
+
+
+<br/><br/>
 
 <p align="center">
 	<a href="http://www.digital-legends.com">
@@ -84,7 +93,8 @@ The technologies used in the project are: C++, OpenGL and Internal Costum Script
 
 
 <p align="justify">
-	<b> [2015-2016] Gameplay Programmer, <i>Digital Legends Entertainment</i>, Barcelona: </b><br/>
+	<b> Digital Legends Entertainment </b> [2015-2016] <br />
+  <b> Game Programmer </b><br/>
 	<img width="128" height="128" style="margin:20px 20px" src="https://giron3s.github.io/images/afterpulse-256x256.jpg" align="right" border="10"/>
 	
 	<u><b><a href="http://www.digital-legends.com/game_afterpulse.html">Afterpulse:</a></b></u><br/>
