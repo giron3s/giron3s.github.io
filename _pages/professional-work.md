@@ -29,12 +29,31 @@ Experience
 <p align="justify">
 <b> [2019-Present] <i>Winsystem</i>, Barcelona: </b> <br />
 <b> Team Lead </b><br/>
-Leading slot projects for the Spahish market, as well as assessing the team in the adoption of Scrum methodology and CI workflows involving branching and versioning strategy and code quality assurance.<br/><br/>
+Leading development of new slot platform. • HW library for Quixant and Axiomtek embedded computer box • Devices like Ticket Printer, NFC, Bill Acceptor & Diverter, Coin Acceptor • Leading implementation of core platform to the Unity engine. Math Library, Progressive Library, Slot Component
+<br/><br/>
 
 <b> Senior C# Game Programmer</b> <br />
 Analysis and implementation of improvements and technological updates for slot games at Spanish market. 
 Technologies: C#, DirectX; SlimDX, Azure DevOps Server, WebLate <br/><br/>
 </p>
+
+
+<p align="justify">
+<b> [2021-Present] <i>Dragon Coins</i> </b> <br />
+<b> Founder and Project Management </b><br/>
+<b> SIDE PROJECT. It is a free, single-player, casual mobile game for Android & iOS. It has had over 10K downloads.
+The core loop of the game is a traditional slot machine where player spin the
+slot machine, gain coins, build his village, and unlock new levels.
+PvP Gameplay: There are two possible spin outcomes that open PvP
+gameplay: attack and raid.
+Dragon Collection: The dragons join the players in the game and help them
+advance faster.
+Responsibilities: Project Management, Game Design, Negotiation with
+Publisher, Backend development
+ </b><br/>
+</p>
+
+<br/><br/>
 
 <p align="center">
 	<a href="https://www.cirsa.com/">
