@@ -13,6 +13,22 @@ Projects
 ======
 
 <p align="justify">
+	<u><b><a href="https://play.google.com/store/apps/details?id=com.fiveamstudio.dragoncoins&hl=en&gl=US">Dragon Coins(Unity, Mobile, Costume Engine, 2021-2023):</a></b></u>
+	<br/>
+	SIDE PROJECT. It is a free, single-player, casual mobile game for Android & iOS. It has had over 10K downloads. <br/><br/>
+	The core loop of the game is a traditional slot machine where player spin the slot machine, gain coins, build his village, and unlock new levels. <br/>
+	PvP Gameplay: There are two possible spin outcomes that open PvP gameplay: attack and raid.<br/>
+	Dragon Collection: The dragons join the players in the game and help them advance faster. <br/><br/>
+	<b>Responsabilities:</b>: Project Management, Game Design, Negotiation with	Publisher, Backend development
+</p>
+
+<p align="center">
+	<a href="https://play.google.com/store/apps/details?id=com.fiveamstudio.dragoncoins&hl=en&gl=US">
+		<img width="811" height="384" src="https://giron3s.github.io/images/DC.jpg" />
+	</a>
+</p>
+
+<p align="justify">
 	<u><b><a href="https://github.com/giron3s/Insomnium-Engine">Hobby Game Engine(Costume Engine, C++, Render, 2018):</a></b></u>
 	<br/>
 	I started developing my hobby game engine in January 2018. Designed for cross platform for Windows, Linux and iOS, later will comming in iOS and Android. It’s written in C++11, OpenGL and LUA scripting. (UI system, Entity Component System, State scripting, Deferred rendering)
