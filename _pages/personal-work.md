@@ -26,8 +26,10 @@ Projects
 	<br/>
 	My primary tasks was integrate scripting game AI, physic and graphics engine.
 
-	[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/msGcim22O6g/0.jpg)](https://www.youtube.com/watch?v=msGcim22O6g)
+	
 </p>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/msGcim22O6g/0.jpg)](https://www.youtube.com/watch?v=msGcim22O6g)
 
 <p align="justify">
 	<u><b><a href="https://www.youtube.com/watch?v=yvkdEE572uE">[2014] Human motion capture with KINECT(C++):</a></b></u>
