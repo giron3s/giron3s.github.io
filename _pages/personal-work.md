@@ -25,8 +25,6 @@ Projects
 	It’s a 3rd person combat game with platform elements, developed by 3 artist and programmers under own game engine (C++ and DirectX 11) to PC. 
 	<br/>
 	My primary tasks was integrate scripting game AI, physic and graphics engine.
-
-	
 </p>
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/msGcim22O6g/0.jpg)](https://www.youtube.com/watch?v=msGcim22O6g)
@@ -38,6 +36,9 @@ Projects
 	<br/><br/>
 	The application was developed on C++ and OpenGL and used libraries of OpenNI and Primesense. And to make character rig I was reused Pinocchio Project ( SIGGRAPH 2007 )
 </p>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yvkdEE572uE/0.jpg)](https://www.youtube.com/watch?v=yvkdEE572uE)
+
 
 <p align="justify">
 	<u><b><a href="https://play.google.com/store/apps/details?id=com.BCNTours&feature=nav_result#?t=W251bGwsMSwxLDMsImNvbS5CQ05Ub3VycyJd">[2013] BCNTours (AR app):</a></b></u>
