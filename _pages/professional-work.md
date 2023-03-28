@@ -32,12 +32,12 @@ Experience
 Leading development of new slot platform. <br />
   • Windows Embedded and Windows IoT for gaming <br />
   • HW library for Quixant and Axiomtek embedded computer box <br />
-  • HW device implementation: Ticket Printer, NFC, Bill Acceptor & Diverter, Coin Acceptor <br />
-  • Leading implementation of core platform to the Unity engine. Math Library, Progressive Library, Slot Component <br />
+  • HW device implementation: NFC, Bill Acceptor & Diverter, Coin Acceptor, Ticket Printer, Intrussion Switches<br />
+  • Leading implementation of core platform to the Unity engine: Math Library, Progressive Library, Slot Component <br />
 <br/><br/>
 
 <b> Senior Game Programmer</b> [2019]<br />
-Analysis and implementation of improvements and technological updates for slot games at Spanish market. <br />
+Development and maintenance of OneHand Engine in the technology department, Tools development, General code optimization and Slot games implementation at Spanish market. <br />
 <b>Technologies:</b> C#, DirectX; SlimDX, Azure DevOps Server, WebLate <br/><br/>
 </p>
 
@@ -79,8 +79,8 @@ Analysis and implementation of improvements and technological updates for slot g
 <b> CIRSA - UNIDESA  </b> [2016-2018] <br />
 <b> Game Programmer </b><br/>
 
-Software Developer of the new multi bingo games of Cirsa a sold under the brand named <b>MyBingo</b>. 
-The technologies used in the project are: C++, OpenGL and Internal Costum Script Language. <br/><br/>
+Software Developer of the new multi bingo games of Cirsa a sold under the brand named <b>MyBingo</b>.<br/>
+<b>Technologies:</b> C++, OpenGL and Internal Costum Script Language. <br/><br/>
 </p>
 
 <p align="center">
