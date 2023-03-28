@@ -25,6 +25,8 @@ Projects
 	It’s a 3rd person combat game with platform elements, developed by 3 artist and programmers under own game engine (C++ and DirectX 11) to PC. 
 	<br/>
 	My primary tasks was integrate scripting game AI, physic and graphics engine.
+
+	[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/msGcim22O6g/0.jpg)](https://www.youtube.com/watch?v=msGcim22O6g)
 </p>
 
 <p align="justify">
