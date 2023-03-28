@@ -30,8 +30,9 @@ Experience
 <b> Win System </b> [2019-Present] <br />
 <b> Software Developement Team Lead </b> [2020-Present] <br/>
 Leading development of new slot platform. <br />
+  • Windows Embedded and Windows IoT for gaming <br />
   • HW library for Quixant and Axiomtek embedded computer box <br />
-  • Devices like Ticket Printer, NFC, Bill Acceptor & Diverter, Coin Acceptor <br />
+  • HW device implementation: Ticket Printer, NFC, Bill Acceptor & Diverter, Coin Acceptor <br />
   • Leading implementation of core platform to the Unity engine. Math Library, Progressive Library, Slot Component <br />
 <br/><br/>
 
@@ -42,13 +43,13 @@ Analysis and implementation of improvements and technological updates for slot g
 
 <p align="center">
 	<a href="https://unidesa.com/juegos/">
-	<img width="300" height="93" src="https://giron3s.github.io/images/cirsa-300x93.jpg" />
+	<img width="300" height="93" src="https://giron3s.github.io/images/5am-studio-287x175.jpg" />
 	</a>
 </p>
 
 
 <p align="justify">
-	<b> Dragon Coins </b> [2021-Present] <br />
+  <b> Dragon Coins </b> [2021-Present] <br />
   <b> Founder & Project Management </b><br/>
 
 <p align="justify">
