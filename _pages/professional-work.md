@@ -27,13 +27,14 @@ Experience
 </p>
 
 <p align="justify">
-<b> Win System </b> [2019-Present] <br />
-<b> Software Developement Team Lead </b> [2020-Present] <br/>
+<font size=5><b> Win System </b> [2019-Present] <br /> </font>
+<font size=3><b> Software Developement Team Lead </b> [2020-Present] <br/> </font>
 Leading development of new slot platform. <br />
+  • Leading implementation of core platform to the Unity engine: Slot Prefabs, State Machine, Math Library, Progressive Library <br />
   • Windows Embedded and Windows IoT for gaming <br />
   • HW library for Quixant and Axiomtek embedded computer box <br />
   • HW device implementation: NFC, Bill Acceptor & Diverter, Coin Acceptor, Ticket Printer, Intrussion Switches<br />
-  • Leading implementation of core platform to the Unity engine: Math Library, Progressive Library, Slot Component <br />
+
 <br/><br/>
 
 <b> Senior Game Programmer</b> [2019]<br />
@@ -53,7 +54,7 @@ Development and maintenance of OneHand Engine in the technology department, Tool
   <b> Founder & Project Management </b><br/>
 
 <p align="justify">
-	SIDE PROJECT. It is a free, single-player, casual mobile game for Android & iOS. It has had over 10K downloads. <br/><br/>
+	SIDE PROJECT. It is a free, single-player, casual mobile game for Android & iOS. <br/><br/>
 	The core loop of the game is a traditional slot machine where player spin the slot machine, gain coins, build his village, and unlock new levels. <br/>
 	PvP Gameplay: There are two possible spin outcomes that open PvP gameplay: attack and raid.<br/>
 	Dragon Collection: The dragons join the players in the game and help them advance faster. <br/><br/>
