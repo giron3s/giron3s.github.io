@@ -27,8 +27,8 @@ Experience
 </p>
 
 <p align="justify">
-<font size=5><b> Win System </b> [2019-Present] <br /> </font>
-<font size=3><b> Software Developement Team Lead </b> [2020-Present] <br/> </font>
+<font size=6><b> Win System </b> [2019-Present] <br /> </font>
+<font size=4><b> Software Developement Team Lead </b> [2020-Present] <br/> </font>
 Leading development of new slot platform. <br />
   • Leading implementation of core platform to the Unity engine: Slot Prefabs, State Machine, Math Library, Progressive Library <br />
   • Windows Embedded and Windows IoT for gaming <br />
@@ -37,7 +37,7 @@ Leading development of new slot platform. <br />
 
 <br/><br/>
 
-<b> Senior Game Programmer</b> [2019]<br />
+<font size=4><b> Senior Game Programmer</b> [2019]<br /> </font>
 Development and maintenance of OneHand Engine in the technology department, Tools development, General code optimization and Slot games implementation at Spanish market. <br />
 <b>Technologies:</b> C#, DirectX; SlimDX, Azure DevOps Server, WebLate <br/><br/>
 </p>
@@ -50,15 +50,15 @@ Development and maintenance of OneHand Engine in the technology department, Tool
 
 
 <p align="justify">
-  <b> Dragon Coins </b> [2021-Present] <br />
-  <b> Founder & Project Management </b><br/>
+  <font size=6><b> Dragon Coins </b> [2021-Present] <br /> </font>
+  <font size=4><b> Founder & Project Management </b><br/> </font>
 
 <p align="justify">
-	SIDE PROJECT. It is a free, single-player, casual mobile game for Android & iOS. <br/><br/>
-	The core loop of the game is a traditional slot machine where player spin the slot machine, gain coins, build his village, and unlock new levels. <br/>
-	PvP Gameplay: There are two possible spin outcomes that open PvP gameplay: attack and raid.<br/>
+	SIDE PROJECT. It is a free, single-player, casual mobile game for Android & iOS.<br/><br/>
+	Core loop: attack, spin, and steal your way from village to village, to travel through tons of unique villages to earn coin. <br/>
+	PvP Gameplay: raid and attack of other players<br/>
 	Dragon Collection: The dragons join the players in the game and help them advance faster. <br/><br/>
-	<b>Responsabilities:</b>: Project Management, Game Design, Negotiation with	Publisher, Backend development
+	<b>Responsabilities:</b>: Project Management, Project planning and estimate, Technical leader on Unity, Creation of technical design documents, Negotiation with Publisher, Backend development, Game Design
 </p>
 
 <p align="center">
