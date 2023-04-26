@@ -27,8 +27,8 @@ Experience
 </p>
 
 <p align="justify">
-<font size=6><b> Win System </b> [2019-Present] <br /> </font>
-<font size=4><b> Software Developement Team Lead </b> [2020-Present] <br/> </font>
+<font size=6><b> Win System </b> [2019-Present] </font> <br /> 
+<font size=4><b> Software Developement Team Lead </b> [2020-Present] </font> <br/> 
 Leading development of new slot platform. <br />
   • Leading implementation of core platform to the Unity engine: Slot Prefabs, State Machine, Math Library, Progressive Library <br />
   • Windows Embedded and Windows IoT for gaming <br />
@@ -50,8 +50,8 @@ Development and maintenance of OneHand Engine in the technology department, Tool
 
 
 <p align="justify">
-  <font size=6><b> Dragon Coins </b> [2021-Present] <br /> </font>
-  <font size=4><b> Founder & Project Management </b><br/> </font>
+  <font size=6><b> Dragon Coins </b> [2021-Present] </font> <br /> 
+  <font size=4><b> Founder & Project Management </b> </font> <br/> 
 
 <p align="justify">
 	SIDE PROJECT. It is a free, single-player, casual mobile game for Android & iOS.<br/><br/>
@@ -77,8 +77,8 @@ Development and maintenance of OneHand Engine in the technology department, Tool
 
 <p align="justify">
 
-<b> CIRSA - UNIDESA  </b> [2016-2018] <br />
-<b> Game Programmer </b><br/>
+<font size=6><b> CIRSA - UNIDESA  </b> [2016-2018] </font> <br/>
+<font size=4><b> C++ Game Programmer </b> </font> <br/> 
 
 Software Developer of the new multi bingo games of Cirsa a sold under the brand named <b>MyBingo</b>.<br/>
 <b>Technologies:</b> C++, OpenGL and Internal Costum Script Language. <br/><br/>
@@ -101,8 +101,8 @@ Software Developer of the new multi bingo games of Cirsa a sold under the brand 
 
 
 <p align="justify">
-	<b> Digital Legends Entertainment </b> [2015-2016] <br />
-  <b> Junior Gameplay Programmer </b><br/>
+	<font size=6> <b> Digital Legends Entertainment </b> [2015-2016] </font> <br/> 
+  <font size=4> <b> Junior C++ Gameplay Programmer </b> </font> <br/> 
 	<img width="128" height="128" style="margin:20px 20px" src="https://giron3s.github.io/images/afterpulse-256x256.jpg" align="right" border="10"/>
 	
 	<u><b><a href="http://www.digital-legends.com/game_afterpulse.html">Afterpulse:</a></b></u><br/>
@@ -121,8 +121,8 @@ Software Developer of the new multi bingo games of Cirsa a sold under the brand 
 
 
 <p align="justify">
-	<b> Barcelona Digital Technology Center </b> 2012-2015] <br />
-  <b> Junior Programmer </b><br/>
+	<font size=6> <b> Barcelona Digital Technology Center </b> [2012-2015] </font> <br /> 
+  <font size=4> <b> Junior Programmer [2013-2015] </b><br/> </font>
 
 <p align="justify">
 	<u><b><a href="https://www.ekauri.com/?lang=en">EKauri:</a></b></u><br/>
@@ -144,8 +144,7 @@ Software Developer of the new multi bingo games of Cirsa a sold under the brand 
 </p>
 
 <p align="justify">
-	<b> Barcelona Digital Technology Center </b> [2012-2013] <br />
-  <b> Internship </b><br/>
+  <font size=4> <b> Internship </b> <font> <br/>
 
 	<img width="128" height="128" style="margin:20px 20px" src="https://giron3s.github.io/images/saapho-300x80.png" align="right"/>
 	
