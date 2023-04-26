@@ -144,7 +144,7 @@ Software Developer of the new multi bingo games of Cirsa a sold under the brand 
 </p>
 
 <p align="justify">
-  <font size=4> <b> Internship </b> <font> <br/>
+  <font size=4> <b> Internship [2012-2013]</b> <font> <br/>
 
 	<img width="128" height="128" style="margin:20px 20px" src="https://giron3s.github.io/images/saapho-300x80.png" align="right"/>
 	
