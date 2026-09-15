@@ -1,0 +1,14 @@
+HEADER:
+  label: "Contact"
+
+LOCATION:
+  embed: "https://www.google.com/maps?q=Barcelona,Spain&output=embed"
+
+FORM:
+  label: "Contact Form"
+  fields:
+    - name: "Full name"
+    - email: "Email address"
+    - message: "Your message"
+    - submit: "Send message"
+

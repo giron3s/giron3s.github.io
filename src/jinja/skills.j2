@@ -1,0 +1,25 @@
+<!-- skills.j2 -->
+<article class="skills" data-page="skills">
+  <header>
+    <h2 class="h2 article-title">{{skills.HEADER.label}}</h2>
+  </header>
+  <section class="skillset-grid">
+    {% for section in skills.SECTIONS %}
+    <div class="skillset-card">
+      <h3 class="skillset-title">{{section.title}}</h3>
+      {% for group in section.groups %}
+      <div class="skillset-group">
+        {% if group.label %}
+        <p class="skillset-label">{{group.label}}</p>
+        {% endif %}
+        <ul class="skillset-tags">
+          {% for item in group["items"] %}
+          <li class="skillset-tag skillset-tag--{{group.level | default('neutral')}}">{{item}}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endfor %}
+    </div>
+    {% endfor %}
+  </section>
+</article>

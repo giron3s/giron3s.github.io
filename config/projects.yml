@@ -1,0 +1,31 @@
+HEADER:
+  label: "Projects"
+
+PROJECTS:
+  - title: "Dragon Coins"
+    category: "Mobile Game"
+    image: "https://giron3s.github.io/images/DC.jpg"
+    url: "https://play.google.com/store/apps/details?id=com.fiveamstudio.dragoncoins&hl=en&gl=US"
+    description: "Founder and technical lead of a casual mobile title shipped on Android and iOS. Owned the Unity client, backend, game design and publisher negotiation end to end."
+    stack: "Unity · C# · Backend"
+
+  - title: "Daisho"
+    category: "Game"
+    image: "https://img.youtube.com/vi/msGcim22O6g/0.jpg"
+    url: "https://www.youtube.com/watch?v=728oG1jljDM&t=326s"
+    description: "Real-time 3D action game project covering gameplay systems, character control and rendering."
+    stack: "C++ · Real-Time 3D"
+
+  - title: "Human Motion Capture with Kinect"
+    category: "Computer Graphics"
+    image: "https://img.youtube.com/vi/yvkdEE572uE/0.jpg"
+    url: "https://www.youtube.com/watch?v=yvkdEE572uE"
+    description: "Degree final project: real-time human motion capture and skeleton tracking with the Kinect sensor, bridging computer vision and computer graphics."
+    stack: "C++ · Kinect SDK"
+
+  - title: "Insomnium Engine"
+    category: "Game Engine"
+    image: "https://opengraph.githubassets.com/1/giron3s/Insomnium-Engine"
+    url: "https://github.com/giron3s/Insomnium-Engine"
+    description: "A real-time game engine built from scratch in modern C++: rendering pipeline, scene graph and asset system — a sandbox for graphics and architecture experiments."
+    stack: "C++ · OpenGL"

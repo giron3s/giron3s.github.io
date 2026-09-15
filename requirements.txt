@@ -1,0 +1,7 @@
+jinja2
+toml 
+aiohttp
+PyYAML
+rich
+python-frontmatter
+pydantic

@@ -1,0 +1,71 @@
+<!-- about.j2 -->
+<article class="about  active" data-page="about">
+  <header>
+    <h2 class="h2 article-title">{{about.HEADER.label}}</h2>
+  </header>
+
+  <!--- PRESENTATION --->
+  <section class="about-text">
+    {% for line in about.PRESENTATION.description.split('\n') %}
+      {% if line.strip() %}
+      <p>{{ line }}</p>
+      {% endif %}
+    {% endfor %}
+  </section>
+
+  <!--- DOING -->
+  {% if about.DOING.enabled %}
+  <section class="service">
+    <h3 class="h3 service-title">{{about.DOING.label}}</h3>
+    <ul class="service-list">
+      {% for item in about.DOING["items"] %}
+      <li class="service-item">
+        <div class="service-icon-box">
+          <img src="{{item.icon}}" alt="design icon" width="30" height="30">
+        </div>
+        <div class="service-content-box">
+          <h4 class="h4 service-item-title">{{item.title}}</h4>
+          <p class="service-item-text">
+            {{item.description}}
+          </p>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  <!--- SKILLS -->
+  {% if about.SKILLS.enabled %}
+  <section class="service">
+    <h3 class="h3 service-title">{{about.SKILLS.label}}</h3>
+    <ul class="service-list">
+      {% for item in about.SKILLS["items"] %}
+      <li class="service-item">
+        <div class="service-icon-box">
+          <img src="{{item.icon}}" alt="{{item.title}} icon" width="30" height="30">
+        </div>
+        <div class="service-content-box">
+          <h4 class="h4 service-item-title">{{item.title}}</h4>
+          <p class="service-item-text">
+            {{item.description}}
+          </p>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  <!--- TECHNOLOGIES-->
+  {% if about.TECHNOLOGIES.enabled %}
+  <section class="tech">
+    <h3 class="h3 tech-title">{{about.TECHNOLOGIES.label}}</h3>
+    <ul class="tech-list">
+      {% for item in about.TECHNOLOGIES["items"] %}
+      <li class="tech-tag">{{item.title}}</li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+</article>

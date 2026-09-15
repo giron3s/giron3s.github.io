@@ -1,0 +1,127 @@
+HEADER:
+  label: "Experience"
+
+EDUCATION:
+  enabled: true
+  label: "Education"
+  items:
+    - period: "2009 — 2013"
+      institution: "Universitat de Barcelona"
+      description: "Bachelor's degree in Computer Engineering."
+    - period: "2013 — 2014"
+      institution: "Universitat Pompeu Fabra"
+      description: "Master's degree in Video Game Development and Design."
+    - period: "Dec 2022 — Feb 2023"
+      institution: "Flutter Mobile - Udemy"
+      description: "Fundamentals of Flutter architecture, UI design, and interactive features for iOS and Android."
+
+EXPERIENCE:
+  enabled: true
+  label: "Professional Experience"
+  items:
+    - position: "Intern"
+      company: "Barcelona Digital Technology Center (SAAPHO)"
+      period: "2012 — 2013"
+      description: "Developed a Social Gateway providing communication tools for seniors, integrating Facebook, Twitter and Google+.<br><strong>Technologies:</strong> Spring Framework, Spring Social, Spring Security, MySQL, SOAP, Hibernate."
+
+    - position: "Junior Programmer"
+      company: "Barcelona Digital Technology Center (eKauri)"
+      period: "2013 — 2014"
+      description: "Designed and developed a videoconference API based on WebRTC technology, supporting voice and video conference between Android and PC.<br><strong>Technologies:</strong> Java, Python, GAE, WSO2."
+
+    - position: "Gameplay / C++ Programmer"
+      company: "Digital Legends Entertainment (Afterpulse)"
+      period: "2015 — 2016"
+      description: >
+        Gameplay programmer on two shipped iOS titles, 'Afterpulse' and 'The Respawnables'. Built gameplay systems, game logic and the front-end menus and UI in C++ on the studio's in-house engine.<br>
+        <strong>Technologies:</strong> C++ 11, Plastic SCM, Jira, Confluence
+        <br>
+        <div style="display:flex; gap:10px; margin-top:10px;">
+          <a href="https://www.youtube.com/watch?v=X7rqBrZsjps" target="_blank"><img src="./src/images/exp-afterpulse.jpg" alt="Afterpulse" style="width:250px; border-radius:6px;"></a>
+          <a href="https://www.youtube.com/watch?v=TJnZx8TBqN4" target="_blank"><img src="./src/images/exp-respawnables.jpg" alt="The Respawnables" style="width:250px; border-radius:6px;"></a>
+        </div>
+        <br><br>
+
+    - position: "C++ Game Programmer"
+      company: "CIRSA / Unidesa"
+      period: "2016 — 2018"
+      description: >
+        Developed slot and bingo titles for regulated gaming cabinets. Built the new multi-bingo line launched commercially under the MyBingo brand, and maintained the existing game catalogue.
+        <br><strong>Technologies:</strong> C++, OpenGL, custom scripting language
+        <br>
+        <div style="display:flex; gap:10px; margin-top:10px; align-items:flex-start;">
+          <a href="https://www.youtube.com/watch?v=ZEOpxVqJTwI" target="_blank"><img src="./src/images/exp-cirsa-double-speed.jpg" alt="MyBingo - Double Speed" style="width:170px; border-radius:6px; aspect-ratio:auto; object-fit:contain;"></a>
+          <a href="https://www.youtube.com/watch?v=ZEOpxVqJTwI" target="_blank"><img src="./src/images/exp-cirsa-icequeen.jpg" alt="MyBingo - Ice Queen" style="width:170px; border-radius:6px; aspect-ratio:auto; object-fit:contain;"></a>
+        </div>
+        <br><br>
+
+    - position: "Founder"
+      company: "Dragon Coins"
+      period: "2022 — 2024"
+      description: >
+        Founded 5AM Studio and shipped Dragon Coins, a free-to-play social slot-builder for Android and iOS, leading a team of 4. Spin-based core loop with base building, PvP raids and collectible card sets; progression and economy handled server-side.<br><br>
+        <strong>Responsibilities:</strong> Project management, technical leadership, backend development, game design and publisher negotiation.<br>
+        <strong>Technologies:</strong> Unity, C#, Firebase, PlayFab
+        <br>
+        <div style="display:flex; gap:10px; margin-top:10px; align-items:flex-start;">
+          <a href="https://www.youtube.com/watch?v=RIFnWDIjoDY" target="_blank"><img src="./src/images/exp-dc-win.jpg" alt="Dragon Coins - Win" style="width:170px; border-radius:6px; aspect-ratio:auto; object-fit:contain;"></a>
+          <a href="https://www.youtube.com/watch?v=RIFnWDIjoDY" target="_blank"><img src="./src/images/exp_dc_attack.jpg" alt="Dragon Coins - Attack" style="width:170px; border-radius:6px; aspect-ratio:auto; object-fit:contain;"></a>
+          <a href="https://www.youtube.com/watch?v=RIFnWDIjoDY" target="_blank"><img src="./src/images/exp-dc-rabbit_mission.png" alt="Dragon Coins - Rabbit Mission" style="width:170px; border-radius:6px; aspect-ratio:auto; object-fit:contain;"></a>
+        </div>
+        <br><br>
+
+    - position: "Software Development Team Lead"
+      company: "Win Systems"
+      period: "2020 — Present"
+      description: >
+        ● Lead the development of the slot gaming platform and its core components, including Rendering, Math, Progressive, and Slot Core systems.<br>
+        ● Maintain and optimize the rendering pipeline, providing tools for Artists and QA teams.<br>
+        ● Lead the development of 2 new cabinets (Sublime, Rapsody XL).<br>
+        ● Maintain Windows Embedded images for different gaming hardware and cabinets.<br>
+        ● Lead the development and integration of hardware controllers and communication protocols for peripherals including NFC, addressable LEDs, ticket printers, bill acceptors, diverters, and coin acceptors<br>
+        ● Develop and maintain a Docker-based build pipeline for automated platform releases.
+        <br><br>
+
+        <strong>Technologies:</strong> C#, DirectX 11, .NET Framework, .NET, Docker, Windows Embedded
+        
+        <br>
+        <div style="display:flex; gap:10px; margin-top:10px;">
+          <a href="https://www.youtube.com/watch?v=LyP9vnHvAl8" target="_blank"><img src="./src/images/exp-winsystem-rapsody.jpg" alt="Video 1" style="width:250px; border-radius:6px;"></a>
+          <a href="https://www.youtube.com/watch?v=reZIS8mNi5w" target="_blank"><img src="./src/images/exp-winsystem-sublime.jpg" alt="Video 2" style="width:250px; border-radius:6px;"></a>
+        </div>
+        <div style="display:flex; gap:10px; margin-top:10px;">
+          <a href="https://www.youtube.com/watch?v=lU7xKm3qV1g" target="_blank"><img src="./src/images/exp-winsystem-moneygrab.jpg" alt="Video 3" style="width:250px; border-radius:6px;"></a>
+          <a href="https://youtu.be/l_fzJtavVZU?si=fWNA5_HJSs5mEJWI&t=13" target="_blank"><img src="./src/images/exp-winsystem-jinlongchengxiang.jpg" alt="Video 5" style="width:250px; border-radius:6px;"></a>
+        </div>
+        <br>
+        </p>
+        <p class="timeline-item-company">Senior C# Programmer</p>
+        <span>2019 - 2020</span>
+        <p class="timeline-text">
+        Analysis and implementation of improvements and technological updates for slot games at Spanish market. <br>
+        <strong>Technologies:</strong> C#, DirectX, Azure DevOps Server.
+        <br>
+        <div style="display:flex; gap:10px; margin-top:10px;">
+          <a href="https://youtu.be/Vcm9aAZmTFg?si=uxThv8HDt7b7fJxj&t=13" target="_blank"><img src="./src/images/exp-winsystem-goddesslink.jpg" alt="Video 4" style="width:250px; border-radius:6px;"></a>
+          <a href="https://youtu.be/0GDaCi6u_R4?si=ZoFTEqn-TYSsMc1e&t=14" target="_blank"><img src="./src/images/exp-winsystem.gamestar.jpg"    alt="Video 5" style="width:250px; border-radius:6px;"></a>
+        </div>
+        <div style="display:flex; gap:10px; margin-top:10px;">
+          <a href="https://www.youtube.com/watch?v=mj0V5SHJyAM" target="_blank"><img src="./src/images/exp-winsystem-fenghuang.jpg" alt="Video 6" style="width:250px; border-radius:6px;"></a>
+          <a href="https://www.youtube.com/watch?v=jSBJpeDgVbA" target="_blank"><img src="./src/images/exp-winsystem-magic.jpg" alt="Video 7" style="width:250px; border-radius:6px;"></a>
+        </div>
+        <br><br>
+
+LANGUAGES:
+  enabled: false
+  display_progress_bars: true
+  display_percentage_values: false
+  label: "Languages"
+  items:
+    - language: "Spanish"
+      proficiency: "100%"
+    - language: "Catalan"
+      proficiency: "100%"
+    - language: "English"
+      proficiency: "60%"
+    - language: "Hungarian"
+      proficiency: "100%"

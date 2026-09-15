@@ -1,0 +1,64 @@
+HEADER:
+  label: "About me"
+
+PRESENTATION:
+  description: |
+    I'm a software engineer and team lead with over a decade of experience building real-time, high-performance systems and the low-level software layers that connect applications with physical hardware.
+
+    At Win Systems I lead the development of an embedded software platform for regulated gaming hardware, owning core components such as rendering, mathematics and business logic, along with hardware drivers (NFC, addressable LEDs, printers, bill and coin acceptors). Earlier in my career I worked on real-time C++ applications at CIRSA and Digital Legends, and led a small team building and launching a mobile product end to end.
+
+    My background bridges Computer Science and interactive systems engineering. I care about software that stays fast, reliable and maintainable as it grows — and about leading teams that build it well.
+
+    Interests — Real-time systems · Software architecture · Performance optimization
+
+DOING:
+  enabled: true
+  label: "What I'm Doing"
+  items:
+    - title: "Systems & Rendering"
+      icon: "config/assets/icons/code.svg"
+      description: "Designing and maintaining real-time rendering pipelines and software architecture in modern C++."
+    - title: "Core Platform Development"
+      icon: "config/assets/icons/laptop-code.svg"
+      description: "Building the core business logic and systems behind interactive, regulated software platforms."
+    - title: "Hardware Integration"
+      icon: "config/assets/icons/bolt.svg"
+      description: "Integrating low-level hardware: NFC, addressable LEDs, printers, bill and coin acceptors."
+    - title: "Technical Leadership"
+      icon: "config/assets/icons/team.svg"
+      description: "Leading a development team plus the tooling and workflows across engineering and QA."
+
+SKILLS:
+  enabled: true
+  label: "Soft Skills"
+  items:
+    - title: "Fast Learner"
+      icon: "config/assets/icons/bolt.svg"
+      description: "I have the ability to quickly acquire new knowledge and adapt to changing technological environments."
+    - title: "Teamwork"
+      icon: "config/assets/icons/user.svg"
+      description: "I collaborate effectively in multidisciplinary projects and communicate clearly with team members."
+    - title: "Problem Solving"
+      icon: "config/assets/icons/gear.svg"
+      description: "I am creative and efficient in identifying and solving technical problems."
+    - title: "Effective Communication"
+      icon: "config/assets/icons/comment.svg"
+      description: "I have the skill to convey ideas clearly and concisely, both technically and non-technically."
+
+TECHNOLOGIES:
+  enabled: true
+  label: "Core Technologies"
+  items:
+    - title: "C++"
+    - title: "C#"
+    - title: "OpenGL"
+    - title: "DirectX"
+    - title: "Unity"
+    - title: "Python"
+    - title: "Linux"
+    - title: "Git"
+    - title: "Visual Studio"
+    - title: "Azure DevOps"
+    - title: "Perforce"
+    - title: "Jira"
+

@@ -1,0 +1,55 @@
+HEADER:
+  label: "Skills"
+
+# Each section renders as a card. Groups inside a section may carry a `level`
+# that drives the visual weight of its tags: advanced > strong > working > neutral.
+SECTIONS:
+  - title: "Languages"
+    groups:
+      - label: "Advanced"
+        level: "advanced"
+        items: ["C++", "C#", "C", "Java"]
+      - label: "Working knowledge"
+        level: "working"
+        items: ["Python", "Dart", "MATLAB", "JavaScript", "HTML", "JSP", "Servlets"]
+      - label: "Scripting"
+        level: "working"
+        items: ["Lua", "MaxScript"]
+
+  - title: "Graphics & Rendering"
+    groups:
+      - label: "Strong"
+        level: "strong"
+        items: ["DirectX 9 / 11 / 12", "OpenGL", "HLSL", "GLSL", "RenderDoc", "Shader Tool"]
+      - label: "Also"
+        level: "working"
+        items: ["Image processing"]
+
+  - title: "Engines & Frameworks"
+    groups:
+      - level: "neutral"
+        items: ["Custom game engine", "Unity", "Unreal Engine 4", "Qt / Qt Creator", "XNA", "GameMaker"]
+
+  - title: "Platforms"
+    groups:
+      - level: "neutral"
+        items: ["Windows", "Windows Embedded", "Android", "iOS"]
+
+  - title: "Tools & Source Control"
+    groups:
+      - level: "neutral"
+        items: ["Visual Studio (+Visual Assist)", "Xcode", "Perforce (P4V)", "Plastic SCM", "Git / GitHub", "Docker", "Azure DevOps", "Jira"]
+
+  - title: "Spoken Languages"
+    groups:
+      - label: "Native"
+        level: "advanced"
+        items: ["Spanish", "Catalan", "Hungarian"]
+      - label: "Other"
+        level: "working"
+        items: ["English (fluent)", "German (basic)"]
+
+  - title: "Interests"
+    groups:
+      - level: "neutral"
+        items: ["Games", "Programming", "ROM Hacking", "Taiko", "Anime & Manga", "Swimming", "Conventions", "Yu-Gi-Oh! TCG"]
