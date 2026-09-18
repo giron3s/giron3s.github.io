@@ -11,23 +11,33 @@ EDUCATION:
     - period: "2013 — 2014"
       institution: "Universitat Pompeu Fabra"
       description: "Master's degree in Video Game Development and Design."
-    - period: "Dec 2022 — Feb 2023"
-      institution: "Flutter Mobile - Udemy"
+    - period: "2022 — 2023"
+      institution: "Udemy"
       description: "Fundamentals of Flutter architecture, UI design, and interactive features for iOS and Android."
 
 EXPERIENCE:
   enabled: true
   label: "Professional Experience"
   items:
-    - position: "Intern"
-      company: "Barcelona Digital Technology Center (SAAPHO)"
-      period: "2012 — 2013"
-      description: "Developed a Social Gateway providing communication tools for seniors, integrating Facebook, Twitter and Google+.<br><strong>Technologies:</strong> Spring Framework, Spring Social, Spring Security, MySQL, SOAP, Hibernate."
-
-    - position: "Junior Programmer"
-      company: "Barcelona Digital Technology Center (eKauri)"
+    - position: "Junior Programmer (eKauri)"
+      company: "Barcelona Digital Technology Center"
       period: "2013 — 2014"
-      description: "Designed and developed a videoconference API based on WebRTC technology, supporting voice and video conference between Android and PC.<br><strong>Technologies:</strong> Java, Python, GAE, WSO2."
+      description: >
+        Designed and developed a videoconference API based on WebRTC technology, supporting voice and video conference between Android and PC.<br>
+        <strong>Technologies:</strong> Java, Python, GAE, WSO2
+        <br><br>
+        </p>
+        <p class="timeline-item-company">Intern (SAAPHO)</p>
+        <span>2012 — 2013</span>
+        <p class="timeline-text">
+        SAAPHO's architecture and services are aligned with the three primary pillars of the WHO Active Ageing framework: health, security and social participation (combating isolation).<br><br>
+        Developed the Social Gateway, giving seniors simplified email, social network portals (Facebook, Twitter and Google+) and streamlined media sharing.<br>
+        <strong>Technologies:</strong> Spring Framework, Spring Social, Spring Security, MySQL, SOAP, Hibernate
+        <br>
+        <div style="display:flex; gap:10px; margin-top:10px;">
+          <a href="https://www.youtube.com/watch?v=dZW2pL2j7ZE" target="_blank"><img src="./src/images/bdigital_saapho.jpg" alt="SAAPHO - Social Gateway" style="width:380px; border-radius:6px; aspect-ratio:auto; object-fit:contain;"></a>
+        </div>
+        <br><br>
 
     - position: "Gameplay / C++ Programmer"
       company: "Digital Legends Entertainment (Afterpulse)"
@@ -98,8 +108,13 @@ EXPERIENCE:
         <p class="timeline-item-company">Senior C# Programmer</p>
         <span>2019 - 2020</span>
         <p class="timeline-text">
-        Analysis and implementation of improvements and technological updates for slot games at Spanish market. <br>
-        <strong>Technologies:</strong> C#, DirectX, Azure DevOps Server.
+        ● Development of slot games, platform improvements and technological updates for the Spanish regulated market.<br>
+        ● Design and continuous improvement of the software development, testing and deployment processes.<br>
+        ● Project management, design and development, internal certifications and CI/CD.<br>
+        ● Maintenance and evolution of the DirectX-based rendering layer used by the slot games.<br>
+        ● Development and release of a data collection system for big data and analytics.<br>
+        <br>
+        <strong>Technologies 2019:</strong> C#, DirectX 11, .NET Framework, .NET
         <br>
         <div style="display:flex; gap:10px; margin-top:10px;">
           <a href="https://youtu.be/Vcm9aAZmTFg?si=uxThv8HDt7b7fJxj&t=13" target="_blank"><img src="./src/images/exp-winsystem-goddesslink.jpg" alt="Video 4" style="width:250px; border-radius:6px;"></a>

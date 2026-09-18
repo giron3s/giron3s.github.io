@@ -920,6 +920,12 @@ main {
 
 .timeline-item:not(:last-child) { margin-bottom: 20px; }
 
+/* Project/company context line: italic and slightly dimmed, so it reads as background. */
+.timeline-text em {
+  color: var(--light-gray-70);
+  font-style: italic;
+}
+
 /* "Technologies:" label inside a timeline entry: bold and brighter than body copy. */
 .timeline-text strong {
   color: var(--white-2);
