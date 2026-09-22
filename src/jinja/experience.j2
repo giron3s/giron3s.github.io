@@ -16,7 +16,13 @@
     <ol class="timeline-list">
       {% for item in resume.EXPERIENCE["items"] | reverse %}
       <li class="timeline-item">
-        <h4 class="h4 timeline-item-title">{{item.company}}</h4>
+        <h4 class="h4 timeline-item-title">
+          {% if item.company_url %}
+          <a href="{{item.company_url}}" target="_blank" rel="noopener noreferrer">{{item.company}}</a>
+          {% else %}
+          {{item.company}}
+          {% endif %}
+        </h4>
         <p class="timeline-item-company">{{item.position}}</p>
         <span>{{item.period}}</span>
         <p class="timeline-text">

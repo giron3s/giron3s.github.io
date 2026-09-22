@@ -21,6 +21,7 @@ EXPERIENCE:
   items:
     - position: "Junior Programmer (eKauri)"
       company: "Barcelona Digital Technology Center"
+      company_url: "https://eurecat.org/es/eurecat/"
       period: "2013 — 2014"
       description: >
         Designed and developed a videoconference API based on WebRTC technology, supporting voice and video conference between Android and PC.<br>
@@ -40,7 +41,8 @@ EXPERIENCE:
         <br><br>
 
     - position: "Gameplay / C++ Programmer"
-      company: "Digital Legends Entertainment (Afterpulse)"
+      company: "Digital Legends Entertainment"
+      company_url: "https://digital-legends.com/our-history"
       period: "2015 — 2016"
       description: >
         Gameplay programmer on two shipped iOS titles, 'Afterpulse' and 'The Respawnables'. Built gameplay systems, game logic and the front-end menus and UI in C++ on the studio's in-house engine.<br>
@@ -54,6 +56,7 @@ EXPERIENCE:
 
     - position: "C++ Game Programmer"
       company: "CIRSA / Unidesa"
+      company_url: "https://unidesa.com/juego/manhattan-boom/"
       period: "2016 — 2018"
       description: >
         Developed slot and bingo titles for regulated gaming cabinets. Built the new multi-bingo line launched commercially under the MyBingo brand, and maintained the existing game catalogue.
@@ -82,6 +85,7 @@ EXPERIENCE:
 
     - position: "Software Development Team Lead"
       company: "Win Systems"
+      company_url: "https://winsysgroup.com/es/slot-machines/"
       period: "2020 — Present"
       description: >
         ● Lead the development of the slot gaming platform and its core components, including Rendering, Math, Progressive, and Slot Core systems.<br>

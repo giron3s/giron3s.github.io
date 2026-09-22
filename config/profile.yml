@@ -10,12 +10,13 @@ USER:
   role: "Software Team Lead — real-time engines, rendering & game systems. A decade of C++/C# across Win Systems, CIRSA and Digital Legends."
   name: "Marc Girones"
   username: "giron3s" # <-- This needs to be the same as your GitHub username
-  avatar: "https://i.imgur.com/OozHpeP.png"
+  avatar: "config/assets/avatars/my-avatar.png"
 
 INFO:
   - label: "Email"
     value: "giron3s@gmail.com"
     icon: "mail-outline"
+    link: "mailto:giron3s@gmail.com"
   - label: "Location"
     value: "Barcelona, Spain"
     icon: "location-outline"

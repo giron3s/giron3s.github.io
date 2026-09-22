@@ -15,18 +15,18 @@ DOING:
   enabled: true
   label: "What I'm Doing"
   items:
-    - title: "Systems & Rendering"
-      icon: "config/assets/icons/code.svg"
-      description: "Designing and maintaining real-time rendering pipelines and software architecture in modern C++."
     - title: "Core Platform Development"
       icon: "config/assets/icons/laptop-code.svg"
       description: "Building the core business logic and systems behind interactive, regulated software platforms."
-    - title: "Hardware Integration"
-      icon: "config/assets/icons/bolt.svg"
-      description: "Integrating low-level hardware: NFC, addressable LEDs, printers, bill and coin acceptors."
     - title: "Technical Leadership"
       icon: "config/assets/icons/team.svg"
       description: "Leading a development team plus the tooling and workflows across engineering and QA."
+    - title: "Systems & Rendering"
+      icon: "config/assets/icons/code.svg"
+      description: "Designing and maintaining real-time rendering pipelines and software architecture in modern C++."
+    - title: "Hardware Integration"
+      icon: "config/assets/icons/bolt.svg"
+      description: "Integrating low-level hardware: NFC, addressable LEDs, printers, bill and coin acceptors."
 
 SKILLS:
   enabled: true

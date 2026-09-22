@@ -444,6 +444,15 @@ main {
 
 .contact-info address { font-style: normal; }
 
+/* Only real links (e.g. mailto:) get affordance; plain values stay static text. */
+.contact-info a.contact-link {
+  transition: var(--transition-1);
+}
+
+.contact-info a.contact-link:hover {
+  color: var(--orange-yellow-crayola);
+}
+
 .social-list {
   display: flex;
   justify-content: flex-start;
@@ -940,6 +949,16 @@ main {
 .timeline-item div[style*="display:flex"] img {
   aspect-ratio: 16 / 9;
   object-fit: cover;
+}
+
+/* Company name links keep the heading styling and only shift colour on hover. */
+.timeline-item-title a {
+  color: inherit;
+  transition: var(--transition-1);
+}
+
+.timeline-item-title a:hover {
+  color: var(--orange-yellow-crayola);
 }
 
 .timeline-item-title {

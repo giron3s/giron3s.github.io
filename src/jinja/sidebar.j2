@@ -23,7 +23,11 @@
         </div>
         <div class="contact-info">
           <p class="contact-title">{{info.label}}</p>
-          <a href="#" class="contact-link">{{info.value}}</a>
+          {% if info.link %}
+          <a href="{{info.link}}" class="contact-link">{{info.value}}</a>
+          {% else %}
+          <p class="contact-link">{{info.value}}</p>
+          {% endif %}
         </div>
       </li>
       {% endfor %}
