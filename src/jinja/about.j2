@@ -21,7 +21,7 @@
       {% for item in about.DOING["items"] %}
       <li class="service-item">
         <div class="service-icon-box">
-          <img src="{{item.icon}}" alt="design icon" width="30" height="30">
+          <img src="{{item.icon}}?v={{asset_version}}" alt="design icon" width="30" height="30">
         </div>
         <div class="service-content-box">
           <h4 class="h4 service-item-title">{{item.title}}</h4>
@@ -43,7 +43,7 @@
       {% for item in about.SKILLS["items"] %}
       <li class="service-item">
         <div class="service-icon-box">
-          <img src="{{item.icon}}" alt="{{item.title}} icon" width="30" height="30">
+          <img src="{{item.icon}}?v={{asset_version}}" alt="{{item.title}} icon" width="30" height="30">
         </div>
         <div class="service-content-box">
           <h4 class="h4 service-item-title">{{item.title}}</h4>

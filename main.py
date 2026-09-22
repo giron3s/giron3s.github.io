@@ -1,4 +1,6 @@
+import hashlib
 from datetime import datetime
+from pathlib import Path
 from typing import Any
 
 import yaml  # type: ignore
@@ -33,6 +35,21 @@ class Portfolio:
         content = self.read_file(file_path)
         return yaml.load(content, Loader=yaml.FullLoader)
 
+    def asset_version(self) -> str:
+        """Short content hash of the static assets, used to bust browser caches.
+
+        Asset paths never change between deploys, so browsers keep serving a
+        stale style.css or icon. Appending this hash to their URLs makes the
+        browser refetch them only when their content actually changed.
+        """
+        digest = hashlib.md5()
+        paths = [Path("src/css/style.css")]
+        paths += sorted(Path("config/assets/icons").glob("*.svg"))
+        for path in paths:
+            if path.is_file():
+                digest.update(path.read_bytes())
+        return digest.hexdigest()[:8]
+
     def format_date(self, date_str: str) -> str:
         date_object = datetime.strptime(date_str, "%Y-%m-%d")
         return date_object.strftime("%b %d, %Y")
@@ -48,4 +65,5 @@ class Portfolio:
 if __name__ == "__main__":
     portfolio = Portfolio()
     context = {key: portfolio.load_config_file(key) for key in portfolio.config_files}
+    context["asset_version"] = portfolio.asset_version()
     portfolio.render_template("index.j2", "index.html", context)

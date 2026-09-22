@@ -935,6 +935,21 @@ main {
   font-style: italic;
 }
 
+/*
+ * Responsive media inside experience entries.
+ * Thumbnails carry fixed inline widths (170-380px) inside non-wrapping flex
+ * rows, which overflowed the card on narrow viewports. Allowing the rows to
+ * wrap and capping every image at the container width keeps them contained;
+ * max-width overrides the inline width without touching the YAML.
+ */
+.timeline-item div[style*="display:flex"] {
+  flex-wrap: wrap;
+}
+
+.timeline-item img {
+  max-width: 100%;
+}
+
 /* "Technologies:" label inside a timeline entry: bold and brighter than body copy. */
 .timeline-text strong {
   color: var(--white-2);
