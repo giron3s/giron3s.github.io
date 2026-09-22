@@ -21,60 +21,38 @@
    * colors
    */
 
-  /* gradient */
-
   /*
-   * Editorial / senior visual system.
-   * Warm near-black neutrals + a single restrained terracotta accent.
-   * Variable names are kept from the original template to minimise the diff:
-   * every rule inherits the new look through these values alone.
+   * Colour is owned by the theme files (src/css/themes/*.css), which define
+   * semantic tokens. The legacy names below are kept only as an adapter so the
+   * ~1900 lines of layout rules keep working unchanged; never put a literal
+   * colour here, change the theme files instead.
    */
 
-  --bg-gradient-onyx: linear-gradient(
-    to bottom right,
-    hsl(30, 6%, 20%) 3%,
-    hsl(30, 6%, 14%) 97%
-  );
-  --bg-gradient-jet: linear-gradient(
-    to bottom right,
-    hsla(30, 6%, 18%, 0.251) 0%,
-    hsla(30, 6%, 11%, 0) 100%
-  ), hsl(30, 6%, 11%);
-  --bg-gradient-yellow-1: linear-gradient(
-    to bottom right,
-    hsl(14, 58%, 60%) 0%,
-    hsla(24, 55%, 58%, 0) 50%
-  );
-  --bg-gradient-yellow-2: linear-gradient(
-    135deg,
-    hsla(14, 58%, 60%, 0.251) 0%,
-    hsla(24, 55%, 58%, 0) 59.86%
-  ), hsl(30, 6%, 11%);
-  --border-gradient-onyx: linear-gradient(
-    to bottom right,
-    hsl(30, 5%, 24%) 0%,
-    hsla(30, 5%, 24%, 0) 50%
-  );
-  --text-gradient-yellow: linear-gradient(
-    to right,
-    hsl(14, 58%, 64%),
-    hsl(24, 55%, 58%)
-  );
+  /* gradients */
+  --bg-gradient-onyx: var(--gradient-surface);
+  --bg-gradient-jet: var(--gradient-surface-soft);
+  --bg-gradient-yellow-1: var(--gradient-accent-1);
+  --bg-gradient-yellow-2: var(--gradient-accent-2);
+  --border-gradient-onyx: var(--gradient-border);
+  --text-gradient-yellow: var(--gradient-accent-text);
 
-  /* solid */
+  /* surfaces */
+  --smoky-black: var(--color-bg);
+  --eerie-black-2: var(--color-surface);
+  --eerie-black-1: var(--color-surface-raised);
+  --onyx: var(--color-surface-muted);
+  --jet: var(--color-border);
 
-  --jet: hsl(30, 5%, 19%);
-  --onyx: hsl(30, 5%, 14%);
-  --eerie-black-1: hsl(30, 6%, 10%);
-  --eerie-black-2: hsl(30, 6%, 9%);
-  --smoky-black: hsl(30, 8%, 6%);
-  --white-1: hsl(40, 22%, 96%);
-  --white-2: hsl(40, 16%, 91%);
-  --orange-yellow-crayola: hsl(14, 58%, 62%);
-  --vegas-gold: hsl(20, 42%, 55%);
-  --light-gray: hsl(38, 9%, 74%);
-  --light-gray-70: hsla(38, 9%, 74%, 0.7);
-  --bittersweet-shimmer: hsl(0, 43%, 51%);
+  /* text */
+  --white-1: var(--color-text-strong);
+  --white-2: var(--color-text-heading);
+  --light-gray: var(--color-text-body);
+  --light-gray-70: var(--color-text-muted);
+
+  /* accents */
+  --orange-yellow-crayola: var(--color-accent);
+  --vegas-gold: var(--color-accent-soft);
+  --bittersweet-shimmer: var(--color-danger);
 
   /**
    * typography
@@ -107,11 +85,11 @@
    * shadow
    */
   
-  --shadow-1: -4px 8px 24px hsla(0, 0%, 0%, 0.25);
-  --shadow-2: 0 16px 30px hsla(0, 0%, 0%, 0.25);
-  --shadow-3: 0 16px 40px hsla(0, 0%, 0%, 0.25);
-  --shadow-4: 0 25px 50px hsla(0, 0%, 0%, 0.15);
-  --shadow-5: 0 24px 80px hsla(0, 0%, 0%, 0.25);
+  --shadow-1: -4px 8px 24px var(--color-shadow);
+  --shadow-2: 0 16px 30px var(--color-shadow);
+  --shadow-3: 0 16px 40px var(--color-shadow);
+  --shadow-4: 0 25px 50px var(--color-shadow-soft);
+  --shadow-5: 0 24px 80px var(--color-shadow);
 
   /**
    * transition
@@ -314,6 +292,40 @@ article.active {
   #MAIN
 \*-----------------------------------*/
 
+/*
+ * Floating theme control, deliberately outside <main> so it never fights
+ * the navbar, which is bottom-fixed below 1024px and top-right above it.
+ */
+.theme-toggle {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  font-size: 18px;
+  color: var(--color-accent);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 50%;
+  box-shadow: var(--shadow-1);
+  cursor: pointer;
+  transition: var(--transition-1);
+  z-index: 10;
+}
+
+.theme-toggle:hover,
+.theme-toggle:focus-visible {
+  color: var(--color-bg);
+  background: var(--color-accent);
+  border-color: var(--color-accent);
+}
+
+
+
+
 main {
   margin: 15px 12px;
   margin-bottom: 75px;
@@ -483,7 +495,7 @@ main {
   bottom: 0;
   left: 0;
   width: 100%;
-  background: hsla(240, 1%, 17%, 0.75);
+  background: var(--color-surface-muted);
   backdrop-filter: blur(10px);
   border: 1px solid var(--jet);
   border-radius: 12px 12px 0 0;
@@ -665,7 +677,7 @@ main {
   left: 0;
   width: 100%;
   height: 100vh;
-  background: hsl(0, 0%, 5%);
+  background: var(--color-overlay);
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
@@ -793,12 +805,12 @@ main {
 
 .tech-tag {
   color: var(--light-gray);
-  background: hsla(40, 10%, 90%, 0.04);
+  background: var(--color-tint);
   font-size: var(--fs-7);
   font-weight: var(--fw-400);
   letter-spacing: 0.01em;
   padding: 7px 14px;
-  border: 1px solid hsla(40, 12%, 90%, 0.09);
+  border: 1px solid var(--color-hairline);
   border-radius: 8px;
   transition: var(--transition-1);
 }
@@ -832,7 +844,7 @@ main {
 
 .skillset-card {
   background: var(--eerie-black-2);
-  border: 1px solid hsla(40, 12%, 90%, 0.08);
+  border: 1px solid var(--color-hairline);
   border-radius: 12px;
   padding: 18px 20px 20px;
 }
@@ -845,7 +857,7 @@ main {
   letter-spacing: -0.01em;
   margin-bottom: 14px;
   padding-bottom: 10px;
-  border-bottom: 1px solid hsla(40, 12%, 90%, 0.07);
+  border-bottom: 1px solid var(--color-hairline-faint);
 }
 
 .skillset-group + .skillset-group { margin-top: 14px; }
@@ -867,11 +879,11 @@ main {
 
 .skillset-tag {
   color: var(--light-gray);
-  background: hsla(40, 10%, 90%, 0.03);
+  background: var(--color-tint);
   font-size: var(--fs-7);
   line-height: 1.25;
   padding: 6px 11px;
-  border: 1px solid hsla(40, 12%, 90%, 0.10);
+  border: 1px solid var(--color-hairline);
   border-radius: 7px;
   transition: var(--transition-1);
 }
@@ -879,14 +891,14 @@ main {
 /* Highest proficiency: filled accent so it reads first. */
 .skillset-tag--advanced {
   color: var(--white-1);
-  background: hsla(14, 58%, 62%, 0.15);
-  border-color: hsla(14, 58%, 62%, 0.45);
+  background: var(--color-accent-tint);
+  border-color: var(--color-accent-line);
   font-weight: var(--fw-500);
 }
 
 .skillset-tag--strong {
   color: var(--white-2);
-  border-color: hsla(14, 58%, 62%, 0.28);
+  border-color: var(--color-accent-line-soft);
 }
 
 .skillset-tag--working { color: var(--light-gray-70); }
@@ -1126,7 +1138,7 @@ main {
   border-radius: 8px;
 }
 
-.select-item button:hover { --eerie-black-2: hsl(240, 2%, 20%); }
+.select-item button:hover { --eerie-black-2: var(--color-surface-muted); }
 
 .project-list {
   display: grid;
@@ -1170,7 +1182,7 @@ main {
   transition: var(--transition-1);
 }
 
-.project-item > a:hover .project-img::before { background: hsla(0, 0%, 0%, 0.5); }
+.project-item > a:hover .project-img::before { background: var(--color-scrim); }
 
 .project-item-icon-box {
   --scale: 0.8;
@@ -1880,9 +1892,9 @@ textarea.form-input::-webkit-resizer { display: none; }
     * shadow
     */
 
-    --shadow-1: -4px 8px 24px hsla(0, 0%, 0%, 0.125);
-    --shadow-2: 0 16px 30px hsla(0, 0%, 0%, 0.125);
-    --shadow-3: 0 16px 40px hsla(0, 0%, 0%, 0.125);
+    --shadow-1: -4px 8px 24px var(--color-shadow-soft);
+    --shadow-2: 0 16px 30px var(--color-shadow-soft);
+    --shadow-3: 0 16px 40px var(--color-shadow-soft);
 
   }
 
@@ -1995,13 +2007,13 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   body::-webkit-scrollbar-thumb {
     border: 5px solid var(--smoky-black);
-    background: hsla(0, 0%, 100%, 0.1);
+    background: var(--color-hairline);
     border-radius: 20px;
-    box-shadow: inset 1px 1px 0 hsla(0, 0%, 100%, 0.11),
-                inset -1px -1px 0 hsla(0, 0%, 100%, 0.11);
+    box-shadow: inset 1px 1px 0 var(--color-hairline),
+                inset -1px -1px 0 var(--color-hairline);
   }
 
-  body::-webkit-scrollbar-thumb:hover { background: hsla(0, 0%, 100%, 0.15); }
+  body::-webkit-scrollbar-thumb:hover { background: var(--color-accent); }
 
   body::-webkit-scrollbar-button { height: 60px; }
 

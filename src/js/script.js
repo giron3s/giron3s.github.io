@@ -121,3 +121,33 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
+
+
+// THEME TOGGLE
+// The active theme is already set on <html> by the inline head script; this
+// only handles switching it and remembering the choice.
+
+const themeToggle = document.querySelector("[data-theme-toggle]");
+const themeIcon = document.querySelector("[data-theme-icon]");
+
+const renderThemeIcon = function (theme) {
+  if (!themeIcon) return;
+  // Show the theme you would switch TO, which is the usual convention.
+  themeIcon.setAttribute("name", theme === "light" ? "moon-outline" : "sunny-outline");
+};
+
+renderThemeIcon(document.documentElement.getAttribute("data-theme"));
+
+if (themeToggle) {
+  themeToggle.addEventListener("click", function () {
+    const current = document.documentElement.getAttribute("data-theme");
+    const next = current === "light" ? "dark" : "light";
+    document.documentElement.setAttribute("data-theme", next);
+    renderThemeIcon(next);
+    try {
+      localStorage.setItem("theme", next);
+    } catch (e) {
+      // Storage unavailable (private mode): the theme still applies for this visit.
+    }
+  });
+}

@@ -1,0 +1,84 @@
+/*-----------------------------------*\
+  #THEME: DARK
+\*-----------------------------------*/
+
+/*
+ * Semantic colour tokens for the dark theme.
+ * Applied when the document carries data-theme="dark".
+ *
+ * Every colour in the site resolves through these tokens: style.css maps its
+ * legacy variable names (--smoky-black, --white-1, ...) onto them, so layout
+ * rules never need to know which theme is active. Adding a theme means adding
+ * one more file like this one, not editing style.css.
+ */
+
+[data-theme="dark"] {
+
+  /* surfaces, from furthest back to closest to the reader */
+  --color-bg: hsl(30, 8%, 6%);
+  --color-surface: hsl(30, 6%, 9%);
+  --color-surface-raised: hsl(30, 6%, 10%);
+  --color-surface-muted: hsl(30, 5%, 14%);
+  --color-border: hsl(30, 5%, 19%);
+
+  /* text, from strongest to faintest */
+  --color-text-strong: hsl(40, 22%, 96%);
+  --color-text-heading: hsl(40, 16%, 91%);
+  --color-text-body: hsl(38, 9%, 74%);
+  --color-text-muted: hsla(38, 9%, 74%, 0.7);
+
+  /* accents */
+  --color-accent: hsl(14, 58%, 62%);
+  --color-accent-soft: hsl(20, 42%, 55%);
+  --color-danger: hsl(0, 43%, 51%);
+
+  /* translucent overlays used by tags and cards */
+  --color-hairline: hsla(40, 12%, 90%, 0.09);
+  --color-hairline-faint: hsla(40, 12%, 90%, 0.07);
+  --color-tint: hsla(40, 10%, 90%, 0.035);
+  --color-accent-tint: hsla(14, 58%, 62%, 0.15);
+  --color-accent-line: hsla(14, 58%, 62%, 0.45);
+  --color-accent-line-soft: hsla(14, 58%, 62%, 0.28);
+
+  /* overlays */
+  --color-overlay: hsl(0, 0%, 5%);
+  --color-scrim: hsla(0, 0%, 0%, 0.5);
+
+  /* shadows */
+  --color-shadow: hsla(0, 0%, 0%, 0.25);
+  --color-shadow-soft: hsla(0, 0%, 0%, 0.15);
+
+  /* gradients */
+  --gradient-surface: linear-gradient(
+    to bottom right,
+    hsl(30, 6%, 20%) 3%,
+    hsl(30, 6%, 14%) 97%
+  );
+  --gradient-surface-soft: linear-gradient(
+    to bottom right,
+    hsla(30, 6%, 18%, 0.251) 0%,
+    hsla(30, 6%, 11%, 0) 100%
+  ), hsl(30, 6%, 11%);
+  --gradient-border: linear-gradient(
+    to bottom right,
+    hsl(30, 5%, 24%) 0%,
+    hsla(30, 5%, 24%, 0) 50%
+  );
+  --gradient-accent-1: linear-gradient(
+    to bottom right,
+    hsl(14, 58%, 60%) 0%,
+    hsla(24, 55%, 58%, 0) 50%
+  );
+  --gradient-accent-2: linear-gradient(
+    135deg,
+    hsla(14, 58%, 60%, 0.251) 0%,
+    hsla(24, 55%, 58%, 0) 59.86%
+  ), hsl(30, 6%, 11%);
+  --gradient-accent-text: linear-gradient(
+    to right,
+    hsl(14, 58%, 64%),
+    hsl(24, 55%, 58%)
+  );
+
+  color-scheme: dark;
+}

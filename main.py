@@ -43,7 +43,8 @@ class Portfolio:
         browser refetch them only when their content actually changed.
         """
         digest = hashlib.md5()
-        paths = [Path("src/css/style.css")]
+        paths = [Path("src/css/style.css"), Path("src/js/script.js")]
+        paths += sorted(Path("src/css/themes").glob("*.css"))
         paths += sorted(Path("config/assets/icons").glob("*.svg"))
         for path in paths:
             if path.is_file():

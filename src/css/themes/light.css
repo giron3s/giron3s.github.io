@@ -1,0 +1,83 @@
+/*-----------------------------------*\
+  #THEME: LIGHT
+\*-----------------------------------*/
+
+/*
+ * Semantic colour tokens for the light theme.
+ * Applied when the document carries data-theme="light".
+ *
+ * Mirrors dark.css token for token. The accent is darkened relative to the
+ * dark theme because the same terracotta that reads well on near-black fails
+ * contrast against a near-white background.
+ */
+
+[data-theme="light"] {
+
+  /* surfaces: warm paper background, cards slightly lighter than the page */
+  --color-bg: hsl(40, 22%, 94%);
+  --color-surface: hsl(40, 33%, 99%);
+  --color-surface-raised: hsl(40, 30%, 97%);
+  --color-surface-muted: hsl(38, 20%, 90%);
+  --color-border: hsl(35, 16%, 84%);
+
+  /* text */
+  --color-text-strong: hsl(30, 12%, 10%);
+  --color-text-heading: hsl(30, 11%, 16%);
+  --color-text-body: hsl(30, 8%, 34%);
+  --color-text-muted: hsla(30, 8%, 34%, 0.78);
+
+  /* accents, darkened for contrast on light surfaces */
+  --color-accent: hsl(14, 62%, 44%);
+  --color-accent-soft: hsl(20, 48%, 38%);
+  --color-danger: hsl(0, 55%, 42%);
+
+  /* translucent overlays: dark-on-light instead of light-on-dark */
+  --color-hairline: hsla(30, 15%, 20%, 0.14);
+  --color-hairline-faint: hsla(30, 15%, 20%, 0.10);
+  --color-tint: hsla(30, 15%, 20%, 0.035);
+  --color-accent-tint: hsla(14, 62%, 44%, 0.12);
+  --color-accent-line: hsla(14, 62%, 44%, 0.5);
+  --color-accent-line-soft: hsla(14, 62%, 44%, 0.3);
+
+  /* overlays */
+  --color-overlay: hsl(30, 18%, 22%);
+  --color-scrim: hsla(0, 0%, 0%, 0.5);
+
+  /* shadows */
+  --color-shadow: hsla(30, 25%, 20%, 0.10);
+  --color-shadow-soft: hsla(30, 25%, 20%, 0.06);
+
+  /* gradients */
+  --gradient-surface: linear-gradient(
+    to bottom right,
+    hsl(40, 25%, 92%) 3%,
+    hsl(38, 20%, 87%) 97%
+  );
+  --gradient-surface-soft: linear-gradient(
+    to bottom right,
+    hsla(30, 15%, 20%, 0.05) 0%,
+    hsla(30, 15%, 20%, 0) 100%
+  ), hsl(40, 33%, 99%);
+  --gradient-border: linear-gradient(
+    to bottom right,
+    hsl(35, 16%, 78%) 0%,
+    hsla(35, 16%, 78%, 0) 50%
+  );
+  --gradient-accent-1: linear-gradient(
+    to bottom right,
+    hsl(14, 62%, 48%) 0%,
+    hsla(24, 55%, 45%, 0) 50%
+  );
+  --gradient-accent-2: linear-gradient(
+    135deg,
+    hsla(14, 62%, 48%, 0.18) 0%,
+    hsla(24, 55%, 45%, 0) 59.86%
+  ), hsl(40, 33%, 99%);
+  --gradient-accent-text: linear-gradient(
+    to right,
+    hsl(14, 62%, 46%),
+    hsl(24, 55%, 40%)
+  );
+
+  color-scheme: light;
+}
