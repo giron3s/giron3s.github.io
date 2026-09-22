@@ -998,7 +998,7 @@ main {
 
 .timeline-item .timeline-item-company {
   font-size: var(--fs-7);
-  color: #fafafa !important;
+  color: var(--color-text-strong);
   font-weight: var(--fw-400);
   margin: 0 0 4px 0;
 }
